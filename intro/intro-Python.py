@@ -237,7 +237,6 @@ for i in names:
 a
 
 # de la misma manera podría iterar un diccionario
-
 juego={
     "personajes":[
                     {"nombre":"Darsamat","tipo":"mago","level":23,"password":"320320"},
@@ -329,16 +328,14 @@ Donde verifique si el nombre y la password coinciden, de ser así... ingresa
 """
 
 def login(nombre,password):
-  if i['nombre'] == nombre:
-    if i['password'] == password:
-      print("loguin exitoso")
-  else:
+  for i in juego['personajes']:
     if i['nombre'] == nombre:
-      if i['password'] != password:
-        print("password incorrecto")
+      if i['password'] == password:
+        print("login exitoso")
       else:
-        print("nombre incorrecto")
-        return login        
+        print("password incorrecto")  
+  
+  print("nombre incorrecto") 
 
 """**Ejercicio 2**
 *   Crear una función que se llame "batalla". 
@@ -347,11 +344,9 @@ ayuda para el segundo ejercicio
 ```
 def batalla(personaje1,personaje2):
 """
-puntajeTotal= 0
-puntos = 0
 
 def batalla(personaje1,personaje2):
-  if puntosP1 > puntosP2:
+  if i['level'] > level:
     puntajeTotal = puntosP1 + puntosP2
     print("el ganador es el personaje 1")
   else:
