@@ -333,8 +333,7 @@ def login(nombre,password):
       if i['password'] == password:
         print("login exitoso")
       else:
-        print("password incorrecto")  
-  
+        print("password incorrecto")    
   print("nombre incorrecto") 
 
 """**Ejercicio 2**
@@ -346,13 +345,10 @@ def batalla(personaje1,personaje2):
 """
 
 def batalla(personaje1,personaje2):
-  if i['level'] > level:
-    puntajeTotal = puntosP1 + puntosP2
+  if personaje1['level'] > personaje2['level']:
     print("el ganador es el personaje 1")
   else:
-    if puntosP1 < puntosP2:
-      puntajeTotal = puntosP1 + puntosP2
+    if personaje1['level'] < personaje2['level']: 
       print("el ganador es el personaje 2")
-    else  
+    else:
       print("es un empate")
-      return batalla
