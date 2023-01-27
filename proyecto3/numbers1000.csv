@@ -1,101 +1,1001 @@
 numero,descripcion
-1.0,1 is the number of moons orbiting Earth.
-2.0,"2 is the lowest channel of television in the United States, Canada, Argentina and Mexico on which television signals are broadcast."
-3.0,3 is number of performers in a trio.
+1.0,1 is the number of dimensions of a line.
+2.0,2 is the number of stars in a binary star system (a stellar system consisting of two stars orbiting around their center of mass).
+3.0,3 is the cost in cents to make a $1 bill in the United States.
 4.0,4 is the number of characters in a canonical four-character idiom in Chinese.
-5.0,5 is the number of kyu (pupil) grades in judo.
-6.0,6 is the number of fundamental flight instruments lumped together on a cockpit display.
-7.0,7 is the figurative number of seas.
-8.0,8 is the number of furlongs in a mile.
-9.0,9 is the number of circles of Hell in Dante's Divine Comedy.
-10.0,10 is the number of fingers on a pair of human hands.
-11.0,11 is the number of incarnations of The Doctor in BBC sci-fi series Doctor Who.
-12.0,"12 is the number of keys in any standard digital telephone (1 through 9, 0, * and #)."
-13.0,13 is the Youngest age a minor can rent or purchase a T rated game by the ESRB without parental (age 18 or older) consent.
-14.0,14 is the number of pieces the body of Osiris was torn into by his fratricidal brother Set.
-15.0,15 is the legal age for sexual intercourse in many countries.
+5.0,5 is the number of dots in a quincunx.
+6.0,6 is the number of feet below ground level a coffin is traditionally buried.
+7.0,7 is the number of colors of the rainbow.
+8.0,8 is the number of legs that arachnids have.
+9.0,"9 is the number of innings in a regulation, non-tied game of baseball."
+10.0,10 is the Number of dots in a tetractys.
+11.0,"11 is the number of sides on the Canadian one-dollar coin (a hendecagon, an eleven-sided polygon)."
+12.0,12 is the number of months in a year.
+13.0,13 is the number of colonies that formed the United States.
+14.0,14 is the minimum age at which one can work in many U.S states.
+15.0,15 is the length in miles of a train of boxcars that can be filled from recycled paper in the USA every day.
 16.0,"16 is the number of teams that qualified for the finals of the FIFA World Cup from 1934 through 1978 (although for various reasons, only 15 competed in the 1938 and 1950 finals)."
-17.0,17 is the maximum number of strokes of a Chinese radical.
+17.0,17 is the number of flames emanating from the grenade cap-badge of the Grenadier Guards.
 18.0,18 is the number of colors the labels for Crayola crayons come in.
-19.0,19 is the final year a person is a teenager.
+19.0,19 is the number of years in 235 lunations.
 20.0,20 is the number of questions in the popular party game Twenty Questions.
 21.0,21 is the number of points required to win a game in badminton and table tennis (before 2001).
-22.0,22 is the number of stars in the Paramount Films logo.
+22.0,22 is the number of letters in the Hebrew alphabet.
 23.0,23 is the number of crosses on Calvary in the Monty Python film Life Of Brian.
-24.0,24 is the number of cycles in the Chinese solar year.
-25.0,25 is the number of points needed to win a set in volleyball under rally scoring rules.
-26.0,26 is the number of bones in the normal human foot and ankle.
-27.0,27 is the number of outs in a regulation baseball game for each team at all adult levels.
-28.0,28 is the number of dominoes in standard domino sets.
-29.0,29 is the number of Knuts in one Sickle in the fictional currency in the Harry Potter novels.
-30.0,"30 is the consumption in pounds of candy annually per person in Denmark, the country with the highest candy consumption."
-31.0,"31 is the number of musical triads (12 major, 12 minor, 4 diminished, and 3 augmented)."
-32.0,32 is the percentage of employees in the USA who eat lunch and work at the same time.
+24.0,"24 is the number of bits a computer needs to represent falseColor images (for a maximum of 16,777,216 colours)."
+25.0,25 is the number of years of marriage marked in a silver wedding anniversary.
+26.0,26 is the number of miles in a marathon rounded down (26 miles and 385 yards).
+27.0,27 is the total number of letters in the Spanish alphabet (5 vowels and 22 consonants).
+28.0,28 is the number worn by the Clemson Tigers' record breaking running back C.J.
+29.0,29 is the highest possible score in a hand of Cribbage or Khanhoo.
+30.0,"30 is the number of hours of the longest kiss on record, by Dror Orpaz and Carmit Tsubara in 1999 at a kissing contest."
+31.0,31 is the number of flavors of Baskin-Robbins ice cream.
+32.0,32 is the number of pages in the average comic book (not including the cover).
 33.0,33 is the temperature at which water boils according to the Newton scale.
 34.0,34 is the lucky number of Victor Pelevin's protagonist Stepan Mikhailov in the novel Numbers.
-35.0,35 is the minimum age of candidates for election to the United States Presidency.
+35.0,35 is the percentage of all bingo players are under the age of 35.
 36.0,36 is the number of vehicles that run in each race of NASCAR's Camping World Truck Series.
 37.0,37 is the cost in cents of the Whopper Sandwich when Burger King first introduced it in 1957.
 38.0,"38 is the number of slots on an American Roulette wheel (0, 00, and 1 through 36; European roulette does not use the 00 slot and has only 37 slots)."
-39.0,"39 is the duration, in nanoseconds, of the nuclear reaction in the largest nuclear explosion ever performed (Tsar bomb)."
-40.0,"40 is the number of positions on a number of radio countdown programs, most notably American Top 40 and American Country Countdown."
-41.0,41 is the age at which writer/director Tom Graeff (of Teenagers from Outer Space fame) committed suicide.
-42.0,"42 is the sum of the codes of the letters in the words ""BIG BANG"" using the encoding A=1, B=2, C=3, etc."
+39.0,39 is the number of mentions of work or labor in the Torah.
+40.0,"40 is the number of thieves in Ali Baba and the Forty Thieves and in Ali Shar and Zumurrud, from Thousand and One Nights."
+41.0,"41 is the number of times Paul McCartney sings the phrase ""Let It Be"" in the Beatles' hit Let It Be."
+42.0,42 is the number of kilometers in a marathon.
 43.0,43 is the maximum number of cars participating in a NASCAR race in the Cup Series or Nationwide Series.
 44.0,44 is the number of candles in a box of Hanukkah candles.
 45.0,45 is the sapphire wedding anniversary in years of marriage.
-46.0,"46 is the number of samurai, out of 47, who carried out the attack in the historical Ako vendetta."
+46.0,46 is the number of human chromosomes.
 47.0,47 is the number of El-Aurians Scotty manages to beam up before their ship is destroyed by the energy ribbon.
 48.0,48 is the number of Ptolemaic constellations.
 49.0,49 is the number of days and night Siddhartha Gautama spent meditating as a holy man.
-50.0,50 is the approximate number of times a mother hen turns her egg in a day so the yolk does not stick to the shell.
+50.0,50 is the traditional number of years in a jubilee period.
 51.0,51 is the atomic number of antimony.
-52.0,"52 is the number of cards in a standard deck of playing cards, not counting Jokers or advertisement cards."
-53.0,"53 is the most points by a rookie in a NBA Playoff game (Philadelphia's Wilt Chamberlain, 1960)."
-54.0,54 is the number of milligrams of caffeine Mountain Dew has.
-55.0,55 is the common speed limit for rural secondary roads and many urban freeways in many states of the United States.
+52.0,52 is the approximate number of weeks in a year.
+53.0,53 is the maximum number of players on a National Football League roster.
+54.0,"54 is the number of cards in a deck of playing cards, if two jokers are included."
+55.0,55 is the highest speed limit allowed in the United States between 1974 and 1986 per the National Maximum Speed Law.
 56.0,"56 is the age of Mao Zedong when the People's Republic of China was established on Oct. 1, 1949."
-57.0,"57 is the number of cm that the smallest man measured, Gul Mohammed (1957-1997) of India."
-58.0,58 is the number of counties in California.
+57.0,57 is the number of people at 20th Century Fox Studios died amid rioting and suicide.
+58.0,58 is the minimum wind speed (mph) needed to issue a Severe Thunderstorm Warning.
 59.0,"59 is the number of days, approximately in two lunar months."
-60.0,60 is the number of seconds in a minute.
-61.0,61 is the code for international direct dial phone calls to Australia.
-62.0,62 is the atomic number of samarium.
+60.0,60 is a common speed limit (mph) for freeways in many US states.
+61.0,"61 is the number of points required to win a ""standard"" game of Cribbage."
+62.0,62 is the number which Sigmund Freud has an irrational fear of.
 63.0,63 is the number of chromosomes found in the offspring of a donkey and a horse.
-64.0,64 is the number of classical arts listed in many Indian scriptures.
+64.0,64 is the total number of black and white squares on the game board in chess or draughts.
 65.0,"65 is the traditional age for retirement in the United Kingdom, Germany and other countries."
-66.0,66 is the total number of chapters in the Bible book of Isaiah.
-67.0,67 is the highest two-digit odd number not presently designating any highway in the Interstate Highway System of the United States.
-68.0,68 is the number of sectors on one cylinder of MFM hard disks with 4 heads and 17 sectors per track.
-69.0,"69 is the atomic number of thulium, a lanthanide."
-70.0,70 is the number of years of marriage until the platinum wedding anniversary.
+66.0,66 is the number of hot dogs eaten by World record holder Joey Chestnut in 15 minutes.
+67.0,67 is the number of counties in Florida.
+68.0,68 is the ideal temperature (F) for developing black-and-white film.
+69.0,69 is the number Bill and Ted were thinking of when talking to their future selves.
+70.0,70 is the distance (meter) from archer to targets in Olympic Archery.
 71.0,"71 is the number of different characters that can be used with a standard English Keyboard, excluding uppercase letters."
-72.0,72 is the number of the Immortals of Taoism.
-73.0,73 is the percentage of girls in Bangladesh that are married by age 18.
-74.0,74 is the number of stars obtained by SpongeBob SquarePants in his driving school.
-75.0,"75 is the age in years that the Saguaro Cactus, found in southwestern US, must be to grow branches."
+72.0,"72 is the number of names of God, according to Kabbalah."
+73.0,73 is the favorite number of The Big Bang Theory's character Sheldon Cooper.
+74.0,74 is the atomic number of tungsten.
+75.0,75 is the age limit for Canadian senators.
 76.0,76 is the atomic number of osmium.
 77.0,77 is the atomic number of iridium.
 78.0,78 is the number of lines that make up Metatron's Cube.
 79.0,"79 is the record for cumulative weeks at #1 on the Billboard charts, held by Elvis Presley."
 80.0,80 is a common limit for the characters per line in computing (derived from the number of columns in IBM cards).
 81.0,81 is the number of stanzas or chapters in the Tao te Ching (in the most common arrangements).
-82.0,82 is the atomic number of lead.
+82.0,82 is the number of games in an NBA or NHL regular season.
 83.0,83 is the atomic number of bismuth.
-84.0,84 is the code for international direct dial phone calls to Vietnam.
+84.0,84 is the atomic number of polonium.
 85.0,85 is the atomic number of astatine.
 86.0,86 is the device number for a lockout relay function in electrical circuit protection schemes.
 87.0,"87 is the number of tools in the Wenger Swiss Army Knife version XXL, listed in the Guinness Book of World Records as the world's most multi-functional penknife."
 88.0,88 is the number of keys on a piano (36 black and 52 white).
 89.0,89 is the number of units of each colour in the board game Blokus.
 90.0,90 is the latitude of the North Pole and the South Pole.
-91.0,91 is the atomic number of protactinium.
-92.0,92 is the percentage of water in watermelons.
-93.0,93 is that approximate distance in millions of miles the Sun is away from the Earth.
-94.0,94 is the atomic number of plutonium.
-95.0,95 is the percentage confidence interval that is considered satisfactory for most purposes in statistics.
+91.0,91 is the code for international direct dial phone calls to India.
+92.0,92 is the number of pounds of sugar the average American child consumes per year.
+93.0,93 is the atomic number of neptunium.
+94.0,94 is the length of an NBA court in feet.
+95.0,95 is the NBA record for Most Assists in a 7-game playoff series (by Magic Johnson of the Los Angeles Lakers in 1984).
 96.0,96 is the rating of Skyrim on metacritic.com.
-97.0,97 is the number of different characters that can be used with a standard English Keyboard.
-98.0,98 is the highest jersey number allowed in the National Hockey League (as 99 was retired by the entire league to honor Wayne Gretzky).
+97.0,97 is the number of minutes it takes the Hubble space telescope to complete an orbit around the Earth.
+98.0,98 is the temperature (F) of the normal body.
 99.0,99 is the highest jersey number allowed in most major league sports.
-100.0,100 is the number of common administrative grouping unit of homesteads in Northern Europe and Great Britain.
+100.0,100 is the number of yards in an American football field (not including the end zones).
+101.0,101 is the temperature in Fahrenheit of milk when it leaves the body of a cow.
+102.0,"102 is the atomic number of nobelium, an actinide."
+103.0,"103 is the atomic number of lawrencium, an actinide."
+104.0,"104 is the number of Corinthian columns in the Temple of Olympian Zeus, the largest temple ever built in Greece."
+105.0,"105 is the atomic number of hahnium, also known as dubnium."
+106.0,106 is the number of surat Quraysh in the Qur'an.
+107.0,107 is a common police code denoting a suspicious person.
+108.0,108 is the number of moves in several different Taijiquan long forms.
+109.0,109 is the atomic number of meitnerium.
+110.0,"110 is the number also known as ""eleventy"", a term made famous by linguist and author J. R. R. Tolkien (Bilbo Baggins celebrates his eleventy-first birthday at the beginning of The Lord of the Rings) and derived from the Old English hund endleofantig."
+111.0,111 is the atomic number of the element roentgenium (Rg).
+112.0,112 is the number of surat al-Ikhlas in the Qur'an.
+113.0,113 is the atomic number of an element temporarily called ununtrium.
+114.0,"114 is the element with the highest number of protons yet discovered, Ununquadium with the highest number."
+115.0,115 is the atomic number of an element temporarily called ununpentium.
+116.0,"116 is the number of pages in the Lost pages, the original manuscript of what Joseph Smith, Jr. said was the translation of the Book of Lehi, of the Golden plates revealed to him in 1827."
+117.0,117 is the serial number of protagonist John from the Halo Series.
+118.0,118 is the atomic number of the element Ununoctium.
+119.0,119 is the default port for unencrypted NNTP connections.
+120.0,120 is the number of days of the average life span of a single red blood cell.
+121.0,121 is the electricity emergency telephone number in Egypt.
+122.0,122 is the police emergency telephone number in Egypt.
+123.0,123 is the atomic number of the yet-to-be-discovered element unbitrium.
+124.0,124 is the rank of the Palestinian territories in world population.
+125.0,125 is the atomic number of the yet-to-be-discovered element Unbipentium.
+126.0,126 is the number of years that Gilgamesh reigned according to the Sumerian king list.
+127.0,"127 is the atomic number of Unbiseptium, an element that has not yet been discovered."
+128.0,"128 is the number of ASCII characters (33 non-printing characters, mostly obsolete control characters that affect how text is processed, and 94 printable)."
+129.0,129 is the combined 2-year total of home runs for baseball's Sammy Sosa with 66 home runs in 1999 and 63 in 2000.
+130.0,130 is the approximate maximum height in meters of trees.
+131.0,131 is the number serving a monkiker for Indie music.
+132.0,132 is the rank of Uruguay in world population.
+133.0,133 is the common processor speed in MHz for common 32-bit processor CPUs circa 1995 such as the Intel Pentium and AMD AMD K5.
+134.0,134 is the number of episodes in the TV series Hawaiian Eye that ran on ABC from 1959 to 1963.
+135.0,"135 is the height of the World's tallest thermometer in feet located in Baker, California."
+136.0,"136 is the hottest temperature ever recorded in Fahrenheits at Aziziya, Libya in September 1922."
+137.0,137 is the atomic number of an element not yet observed called Untriseptium.
+138.0,"138 is the atomic number of Untrioctium, a temporary chemical element."
+139.0,139 is the all-time record number of rugby union international appearances made by Australia scrum-half George Gregan.
+140.0,"140 is the character-entry limit for Twitter, a well-known characteristic of the service (based on the text messaging limit)."
+141.0,141 is the number of participants (90 Indians and 51 Pilgrims) at the First Thanksgiving.
+142.0,142 is the number of 6-vertex planar graphs.
+143.0,143 is the number of milligrams of caffeine in AMP Energy.
+144.0,144 is the number of months in 12 years.
+145.0,145 is the atomic number of Unquadpentium.
+146.0,146 is the Guinness World Record for the most languages a poem was recited in.
+147.0,147 is the final score of the losing team in the NBA game in which Wilt Chamberlain scored 100 points.
+148.0,148 is the number of episodes of the TV series The Fresh Prince of Bel-Air on NBC from 1990 to 1996.
+149.0,149 is the number of legal proceedings against 149 communists in Estonia in 1924.
+150.0,150 is the number of estimated distinct phonemes in the Taa language.
+151.0,151 is total number of types of Pokémon in the original set.
+152.0,152 is the number of diapers solder in a Pampers Swaddlers pack.
+153.0,"153 is the code for ""mental processes & intelligence"" in the Dewey Decimal Classification."
+154.0,154 is the period in days that the sun follows on gamma-ray flares.
+155.0,155 is the number of episodes the TV series Sea Hunt ran in syndication from 1958 to 1961.
+156.0,156 is the number of years that Hong Kong was under British colony rule.
+157.0,157 is the elevation in meters of Atalanti Island in the North Euboean Gulf of the Aegean Sea.
+158.0,158 is the number of episdoes the TV series The Dick Van Dyke Show ran on CBS from 1961 to 1966 with 158 episodes.
+159.0,159 is the number of isomers of C11H24.
+160.0,160 is the number of characters permitted in a standard short message service in Australia and Europe.
+161.0,161 is the number of different ways to bet on a roulette wheel.
+162.0,162 is total number of baseball games each team plays during a regular season in Major League Baseball.
+163.0,163 is the atomic number of an element temporarily called Unhextrium.
+164.0,164 is the number of home runs the Baltimore Orioles hit in 2006.
+165.0,"165 is the miles that twenty-mule teams, which were mules and horses attached to wagons, traveled from mines to the nearest railroad spur, 165 miles (275 km) away in Mojave, California."
+166.0,166 is luxembourg ranks #166 in world population.
+167.0,"167 is the number of workers trapped for more than 24 hours in the Blyvooruitzicht gold mine in Johannesburg, South Africa on January 18, 2008."
+168.0,168 is the number of episodes that Barney Miller ran on ABC from 1975 to 1982.
+169.0,"169 is the height in feet of The Oak Island Lighthouse on Oak Island, North Carolina."
+170.0,170 is 170 is the maximum check-out possible in a standard game of darts (where the final score must be a double).
+171.0,171 is the atomic number of an element called Ununseptunium.
+172.0,172 is the number that appears on the back of the US $5 dollar bill (in the bushes at the base of the Lincoln Memorial).
+173.0,173 is the rank of Maldives in world population.
+174.0,"174 is the number of miles the Columbia University Library System collection, with over 9.3 million volumes, would stretch end-to-end."
+175.0,175 is the number of weeks that professional golfer David Toms spent in the top-10 of the Official World Golf Rankings between 2001 and 2006.
+176.0,"176 is the number of verses in the longest chapter, the Psalm 119 of the Bible."
+177.0,"177 is the elevation of Borgarvirki, in the north of Iceland, in meteres above sea level."
+178.0,178 is the rank of Estonia in world population density.
+179.0,179 is the rank of Estonia in world population density.
+180.0,180 is the number of litres of saliva in one day that cattle can produce.
+181.0,181 is the atomic number of an element temporarily called Unoctunium.
+182.0,182 is the carat of the Star of Bombay cabochon-cut star sapphire originating from Sri Lanka.
+183.0,183 is the rank of Laos in countries by population density.
+184.0,"184 is a weight class in collegiate wrestling, 184 lb (83 kg)."
+185.0,185 is the record number of singles hit by St. Louis Cardinals Jesse Burkett in 1899.
+186.0,186 is the length of the Judgment at Nuremberg measured in 186 minutes.
+187.0,187 is 187th Street in the Washington Heights section of Manhattan.
+188.0,188 is the rank of Tonga in world population.
+189.0,189 is the rank of Brazil in population density.
+190.0,190 is the length in minutes of the Right Stuff.
+191.0,191 is the number of episodes for the different regions in the PokÃ©mon anime.
+192.0,"192 is the population of Bide Arm in Newfoundland and Labrador, Canada."
+193.0,193 is the number of member states of the United Nations as of 2011.
+194.0,"194 is the NHL record number of saves, set by Bruce Sutter in 1982."
+195.0,195 is the number of countries in the world if Taiwan is included.
+196.0,196 is the length in miles of the New Orleans and Northeastern Railroad.
+197.0,197 is the rank of the Solomon Islands in population density.
+198.0,198 is the number of sacks by Reggie White in his NFL career from 1985-2000.
+199.0,"199 is the population of Woodstock, Newfoundland and Labrador, Newfoundland and Labrador Canada according to the 2006 Census."
+200.0,"200 is the approximate number of volcanoes in Japan, which is home to 10% of the active volcanoes in the world."
+201.0,201 is the Saros cycle; the next solar eclipse in this cycle is predicted to take place in AD 3223.
+202.0,202 is the area code assigned to Washington D.C.
+203.0,203 is the HTTP status code indicating partial information.
+204.0,204 is the HTTP status code indicating the request was received but there is no response to the request.
+205.0,205 is the world speed record (mph) of a car on ice.
+206.0,206 is bones in the typical adult human body.
+207.0,207 is the area code for the US state of Maine.
+208.0,208 is the heaviest stable isotope of any element (lead).
+209.0,209 is the basketball record for most three pointers in a row.
+210.0,210 is the world speed record (km/h) for a mountain bike on a ski slope.
+211.0,211 is the SMTP status code system status.
+212.0,212 is the boiling point of water at sea level in Fahrenheit degrees.
+213.0,213 is one of the first three area codes created in California.
+214.0,214 is the number of Chinese radicals for the writing of Chinese characters according to the 1716 Kangxi Dictionary.
+215.0,215 is the Dewey Decimal Classification for Science and religion.
+216.0,216 is the number of digits in a number that Max becomes obsessed with in the film Pi in his quest to find the numeric equation behind existence.
+217.0,217 is the area code for central Illinois.
+218.0,218 is votes required in the US House of Representatives to achieve a majority as of 2008.
+219.0,219 is an uninteresting number.
+220.0,"220 is the SMTP code meaning ""service ready""."
+221.0,221 is sMTP status code for service closing transmission channel.
+222.0,222 is the score in the 1916 Cumberland vs. Georgia Tech football game that was the record for most points scored by one team in an American football game.
+223.0,223 is an uninteresting number.
+224.0,224 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+225.0,225 is the longest distance in miles a deepwater lobster has been recorded to travel.
+226.0,226 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+227.0,"227 is the highest score ever in the Eurovision Song Contest, achieved by Katrina and the Waves of the UK in 1997, before the Semi-final system was introduced in 2004."
+228.0,228 is an uninteresting number.
+229.0,229 is the lowest individual batting score not achieved by any player in test match cricket.
+230.0,230 is the country code for Mauritius.
+231.0,231 is the number of cubic inches in a U.S. liquid gallon.
+232.0,232 is an uninteresting number.
+233.0,233 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+234.0,234 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+235.0,"235 is the atomic mass number of an important isotope of the element uranium, the fissile isotope which is used as the fuel for nuclear reactors and in some nuclear weapons."
+236.0,236 is a boring number.
+237.0,237 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+238.0,238 is a boring number.
+239.0,239 is the number of chapters in the Book of Mormon.
+240.0,240 is the cholesterol level above which is considered high risk.
+241.0,241 is an uninteresting number.
+242.0,242 is the area code of The Bahamas located in the North West Atlantic Ocean.
+243.0,243 is the Calling code for Zaire.
+244.0,244 is a boring number.
+245.0,245 is the number of Jewish singers who returned from captivity in Babylon in circa 538 BCE BC following the rise of Cyrus the Great and the Persian Empire.
+246.0,246 is an uninteresting number.
+247.0,247 is an unremarkable number.
+248.0,248 is the number of organs in the human body as traditionally depicted.
+249.0,249 is an unremarkable number.
+250.0,250 is the number of Pokémon originally available in Pokémon Gold and Silver before Celebi was added.
+251.0,251 is the last and most powerful prime mover (engine) designed and built by the American Locomotive Company (ALCO).
+252.0,252 is a boring number.
+253.0,253 is an unremarkable number.
+254.0,254 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+255.0,255 is the largest representable integer in an unsigned byte.
+256.0,256 is the number of NFL regular season football games.
+257.0,257 is a boring number.
+258.0,258 is a boring number.
+259.0,259 is an uninteresting number.
+260.0,260 is an uninteresting number.
+261.0,261 is number of possible unfolded tesseract patterns.
+262.0,262 is a boring number.
+263.0,263 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+264.0,264 is an unremarkable number.
+265.0,265 is an uninteresting number.
+266.0,266 is an unremarkable number.
+267.0,267 is the number of groups of order 64.
+268.0,268 is an unremarkable number.
+269.0,269 is a boring number.
+270.0,270 is the average number of days in human pregnancy.
+271.0,271 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+272.0,272 is a boring number.
+273.0,273 is the death toll of the air crash of American Airlines Flight 191.
+274.0,274 is a boring number.
+275.0,275 is an unremarkable number.
+276.0,"276 is the highest number of rounds in boxing history, in a bare-knuckle fight in 1825 that saw Jack Jones beat Patsy Tunney after 4hr 30min."
+277.0,277 is an unremarkable number.
+278.0,278 is an unremarkable number.
+279.0,279 is an unremarkable number.
+280.0,280 is an uninteresting number.
+281.0,281 is an unremarkable number.
+282.0,282 is a boring number.
+283.0,283 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+284.0,284 is an uninteresting number.
+285.0,285 is the total number of Rules of Acquisition in Star Trek.
+286.0,286 is an uninteresting number.
+287.0,287 is an unremarkable number.
+288.0,288 is a boring number.
+289.0,289 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+290.0,290 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+291.0,291 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+292.0,292 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+293.0,293 is an uninteresting number.
+294.0,294 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+295.0,295 is the numerical designation of seven circumfrental or half-circumfrental routes of Interstate 95 in the United States.
+296.0,296 is a boring number.
+297.0,297 is an unremarkable number.
+298.0,298 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+299.0,299 is an uninteresting number.
+300.0,300 is the number of different beverages the Coca Cola company offers.
+301.0,301 is an unremarkable number.
+302.0,302 is a boring number.
+303.0,303 is an unremarkable number.
+304.0,304 is the record number of wickets taken in English cricket season by Tich Freeman in 1928.
+305.0,305 is an uninteresting number.
+306.0,306 is an uninteresting number.
+307.0,307 is an unremarkable number.
+308.0,308 is an uninteresting number.
+309.0,309 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+310.0,310 is a boring number.
+311.0,311 is a boring number.
+312.0,312 is a boring number.
+313.0,"313 is the number of Muslims who fought in the Battle of Badr against Muhammad's, and by extension, Islam's, foes."
+314.0,314 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+315.0,315 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+316.0,316 is a boring number.
+317.0,317 is an unremarkable number.
+318.0,318 is a boring number.
+319.0,319 is an unremarkable number.
+320.0,320 is an unremarkable number.
+321.0,321 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+322.0,322 is an unremarkable number.
+323.0,323 is an uninteresting number.
+324.0,324 is an uninteresting number.
+325.0,325 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+326.0,326 is a boring number.
+327.0,327 is a boring number.
+328.0,"328 is the weight in pounds of an ovarian cyst removed from a woman in Galveston, Texas, in 1905, a world record."
+329.0,329 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+330.0,330 is an uninteresting number.
+331.0,331 is an unremarkable number.
+332.0,332 is a boring number.
+333.0,333 is an unremarkable number.
+334.0,334 is the long-time highest score in Test cricket (held by Sir Donald Bradman and Mark Taylor).
+335.0,335 is a boring number.
+336.0,336 is the number of dimples on an American golf ball.
+337.0,337 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+338.0,338 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+339.0,339 is a boring number.
+340.0,340 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+341.0,341 is a boring number.
+342.0,342 is a boring number.
+343.0,343 is the number of frames in which U.S. President John F. Kennedy's presidential limousine can be seen in the Zapruder film.
+344.0,344 is a boring number.
+345.0,345 is an uninteresting number.
+346.0,346 is an unremarkable number.
+347.0,347 is a boring number.
+348.0,348 is a boring number.
+349.0,349 is an uninteresting number.
+350.0,350 is the number of cubic inches displaced in the most common form of the Small Block Chevrolet V8.
+351.0,351 is an unremarkable number.
+352.0,"352 is the number of international appearances by Kristine Lilly for the USA women's national soccer team, an all-time record."
+353.0,353 is a boring number.
+354.0,354 is an unremarkable number.
+355.0,355 is an unremarkable number.
+356.0,356 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+357.0,357 is a boring number.
+358.0,358 is an unremarkable number.
+359.0,359 is an unremarkable number.
+360.0,360 is the number of degrees in a circle for the purpose of angular measurement.
+361.0,361 is the number of positions on a standard 19 x 19 Go board.
+362.0,362 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+363.0,363 is an unremarkable number.
+364.0,"364 is the total number of gifts received in the song ""The Twelve Days of Christmas""."
+365.0,365 is the number of solar days in the mean tropical year.
+366.0,366 is the number of days in a leap year.
+367.0,367 is an uninteresting number.
+368.0,368 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+369.0,369 is an uninteresting number.
+370.0,370 is an unremarkable number.
+371.0,371 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+372.0,372 is an unremarkable number.
+373.0,373 is an unremarkable number.
+374.0,374 is a boring number.
+375.0,375 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+376.0,376 is an unremarkable number.
+377.0,377 is an unremarkable number.
+378.0,378 is a boring number.
+379.0,379 is an uninteresting number.
+380.0,380 is an unremarkable number.
+381.0,381 is a boring number.
+382.0,382 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+383.0,383 is the cubic displacement in inches of a 350cid Small Block Chevrolet with a 400cid SBC crankshaft.
+384.0,384 is the apogee (farthest distance from Earth) of the expeditions to the International Space Station in km.
+385.0,385 is an uninteresting number.
+386.0,386 is the number of Pokémon in the 3rd Generation National Pokédex.
+387.0,387 is an uninteresting number.
+388.0,388 is a boring number.
+389.0,389 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+390.0,390 is the speed in feet per second that nerve impulses for muscle position travel at.
+391.0,391 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+392.0,392 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+393.0,393 is an unremarkable number.
+394.0,394 is a boring number.
+395.0,395 is a boring number.
+396.0,396 is the displacement in cubic inches of early Chevrolet Big-Block engines.
+397.0,397 is an uninteresting number.
+398.0,398 is an unremarkable number.
+399.0,399 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+400.0,"400 is the number of years in a period of the Gregorian calendar, of which 97 are leap years and 303 are common."
+401.0,401 is a boring number.
+402.0,402 is an unremarkable number.
+403.0,403 is an uninteresting number.
+404.0,"404 is the HTTP status code for ""Not found"", perhaps the most famous HTTP status code."
+405.0,405 is a boring number.
+406.0,406 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+407.0,407 is an unremarkable number.
+408.0,408 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+409.0,409 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+410.0,410 is an uninteresting number.
+411.0,411 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+412.0,412 is a boring number.
+413.0,413 is an uninteresting number.
+414.0,414 is an unremarkable number.
+415.0,415 is an uninteresting number.
+416.0,416 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+417.0,417 is an unremarkable number.
+418.0,"418 is the error code for ""I'm a teapot"" in the Hyper Text Coffee Pot Control Protocol."
+419.0,419 is an unremarkable number.
+420.0,420 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+421.0,421 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+422.0,422 is an unremarkable number.
+423.0,423 is an uninteresting number.
+424.0,424 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+425.0,425 is a boring number.
+426.0,426 is an unremarkable number.
+427.0,427 is an unremarkable number.
+428.0,428 is a boring number.
+429.0,429 is a boring number.
+430.0,430 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+431.0,431 is a boring number.
+432.0,"432 is three-dozen sets of a dozen, making it three gross."
+433.0,"433 is the perfect score in the game show Fifteen To One, only ever achieved once in over 2000 shows."
+434.0,434 is a boring number.
+435.0,435 is an unremarkable number.
+436.0,436 is a boring number.
+437.0,437 is an unremarkable number.
+438.0,438 is an unremarkable number.
+439.0,439 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+440.0,440 is the standard frequency in hertz to which most orchestras tune the pitch A above middle C.
+441.0,441 is the number of squares on a Super Scrabble board.
+442.0,442 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+443.0,443 is an uninteresting number.
+444.0,444 is an uninteresting number.
+445.0,445 is an uninteresting number.
+446.0,446 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+447.0,447 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+448.0,448 is an unremarkable number.
+449.0,449 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+450.0,450 is a perfect score in Canadian five-pin bowling.
+451.0,"451 is the temperature at which the paper in books ignites, giving the name to Ray Bradbury's novel Fahrenheit 451."
+452.0,452 is a boring number.
+453.0,453 is an uninteresting number.
+454.0,454 is a boring number.
+455.0,455 is an unremarkable number.
+456.0,456 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+457.0,457 is an unremarkable number.
+458.0,458 is an uninteresting number.
+459.0,459 is an uninteresting number.
+460.0,460 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+461.0,461 is a boring number.
+462.0,462 is a boring number.
+463.0,463 is the number of days in the synodic period of Ceres.
+464.0,"464 is the number of legal positions of the kings in chess, not counting mirrored positions."
+465.0,465 is an uninteresting number.
+466.0,466 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+467.0,467 is an uninteresting number.
+468.0,468 is a boring number.
+469.0,469 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+470.0,470 is the minimum length in yards from the tee to the hole on a Par 5.
+471.0,471 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+472.0,472 is an unremarkable number.
+473.0,473 is a boring number.
+474.0,474 is an unremarkable number.
+475.0,475 is an uninteresting number.
+476.0,476 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+477.0,477 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+478.0,478 is a boring number.
+479.0,479 is an unremarkable number.
+480.0,"480 is the number of hours for rocking non-stop in a rocking chair, a world record held by Dennis Easterling of Atlanta."
+481.0,481 is an unremarkable number.
+482.0,482 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+483.0,483 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+484.0,484 is an uninteresting number.
+485.0,485 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+486.0,486 is a boring number.
+487.0,487 is an unremarkable number.
+488.0,488 is an unremarkable number.
+489.0,489 is an uninteresting number.
+490.0,490 is the number of times Jesus told Peter to forgive his brother in the Gospel of Matthew.
+491.0,491 is an uninteresting number.
+492.0,492 is an uninteresting number.
+493.0,"493 is the number of bronze knuts equivalent to one gold galleon, in the monetary system of the world of Harry Potter."
+494.0,494 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+495.0,495 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+496.0,496 is what the dimension of the gauge group must be for a superstring theory to make sense.
+497.0,497 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+498.0,498 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+499.0,499 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+500.0,500 is the winning permillage (tenth of a percent) of a sports team with equal numbers of wins and losses.
+501.0,501 is a boring number.
+502.0,502 is an uninteresting number.
+503.0,503 is an uninteresting number.
+504.0,504 is an unremarkable number.
+505.0,505 is an uninteresting number.
+506.0,506 is a boring number.
+507.0,507 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+508.0,508 is an uninteresting number.
+509.0,509 is a boring number.
+510.0,510 is an uninteresting number.
+511.0,511 is the number of collaborators mathematician Paul Erdős had.
+512.0,512 is an uninteresting number.
+513.0,513 is an uninteresting number.
+514.0,514 is a boring number.
+515.0,515 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+516.0,516 is a boring number.
+517.0,517 is an unremarkable number.
+518.0,518 is an unremarkable number.
+519.0,519 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+520.0,520 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+521.0,521 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+522.0,522 is a boring number.
+523.0,523 is an unremarkable number.
+524.0,524 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+525.0,525 is the number of scan lines in the NTSC television standard.
+526.0,526 is a boring number.
+527.0,527 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+528.0,528 is an unremarkable number.
+529.0,529 is an uninteresting number.
+530.0,530 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+531.0,531 is an uninteresting number.
+532.0,532 is an unremarkable number.
+533.0,533 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+534.0,534 is a boring number.
+535.0,535 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+536.0,"536 is the number of ways to arrange the pieces of the stomachion puzzle into a square, not counting rotation or reflection."
+537.0,537 is an unremarkable number.
+538.0,538 is the total number of votes in the Electoral College of the United States.
+539.0,539 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+540.0,540 is an uninteresting number.
+541.0,541 is a boring number.
+542.0,542 is a boring number.
+543.0,543 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+544.0,544 is a boring number.
+545.0,545 is a boring number.
+546.0,546 is an unremarkable number.
+547.0,547 is a boring number.
+548.0,548 is a boring number.
+549.0,549 is an unremarkable number.
+550.0,550 is the number of accidents per day that falling asleep while driving results in in the United States on average.
+551.0,551 is an uninteresting number.
+552.0,552 is an uninteresting number.
+553.0,553 is an uninteresting number.
+554.0,554 is an unremarkable number.
+555.0,555 is the number of seats of the airliner A380-800.
+556.0,556 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+557.0,557 is an uninteresting number.
+558.0,558 is a boring number.
+559.0,559 is a boring number.
+560.0,560 is an uninteresting number.
+561.0,561 is an unremarkable number.
+562.0,"562 is the number of Native American (including Alaskan) Nations, or ""Tribes,"" recognized by the USA government."
+563.0,563 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+564.0,564 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+565.0,565 is a boring number.
+566.0,566 is an unremarkable number.
+567.0,567 is an uninteresting number.
+568.0,568 is an unremarkable number.
+569.0,569 is an unremarkable number.
+570.0,570 is an unremarkable number.
+571.0,571 is an unremarkable number.
+572.0,572 is an unremarkable number.
+573.0,573 is an unremarkable number.
+574.0,574 is an unremarkable number.
+575.0,575 is an unremarkable number.
+576.0,576 is an unremarkable number.
+577.0,577 is an uninteresting number.
+578.0,578 is an uninteresting number.
+579.0,579 is an uninteresting number.
+580.0,580 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+581.0,581 is a boring number.
+582.0,582 is a boring number.
+583.0,583 is a boring number.
+584.0,584 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+585.0,585 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+586.0,586 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+587.0,587 is the outgoing port for email message submission.
+588.0,588 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+589.0,589 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+590.0,590 is an uninteresting number.
+591.0,591 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+592.0,592 is a boring number.
+593.0,593 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+594.0,594 is a boring number.
+595.0,595 is a boring number.
+596.0,596 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+597.0,597 is an uninteresting number.
+598.0,598 is a boring number.
+599.0,599 is a boring number.
+600.0,"600 is the advertised number of miles that NASCAR runs in the Coca-Cola 600, the longest race on any of the NASCAR circuits."
+601.0,601 is an unremarkable number.
+602.0,602 is a boring number.
+603.0,603 is an uninteresting number.
+604.0,604 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+605.0,605 is a boring number.
+606.0,606 is a boring number.
+607.0,607 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+608.0,608 is a boring number.
+609.0,609 is a boring number.
+610.0,610 is a boring number.
+611.0,611 is an unremarkable number.
+612.0,612 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+613.0,613 is the number hung from the rafters at Madison Square Garden in honor of New York Knicks coach Red Holzman's 613 victories.
+614.0,"614 is the number of Commandments, according to Rabbi Fackenheimin, that should be in Judaism, vs. the traditional 613."
+615.0,615 is a boring number.
+616.0,616 is a boring number.
+617.0,617 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+618.0,618 is an unremarkable number.
+619.0,619 is a boring number.
+620.0,620 is an uninteresting number.
+621.0,621 is a boring number.
+622.0,622 is an uninteresting number.
+623.0,623 is a boring number.
+624.0,624 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+625.0,625 is an unremarkable number.
+626.0,"626 is the number of compositions of Wolfgang Amadeus Mozart, according to the Köchel Catalogue."
+627.0,627 is an unremarkable number.
+628.0,628 is an unremarkable number.
+629.0,629 is a boring number.
+630.0,630 is an unremarkable number.
+631.0,631 is a boring number.
+632.0,632 is an unremarkable number.
+633.0,633 is an uninteresting number.
+634.0,634 is an uninteresting number.
+635.0,635 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+636.0,636 is an uninteresting number.
+637.0,637 is an uninteresting number.
+638.0,638 is a boring number.
+639.0,639 is an unremarkable number.
+640.0,640 is an unremarkable number.
+641.0,641 is an uninteresting number.
+642.0,642 is a boring number.
+643.0,643 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+644.0,644 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+645.0,645 is a boring number.
+646.0,646 is an uninteresting number.
+647.0,647 is an unremarkable number.
+648.0,648 is an uninteresting number.
+649.0,649 is the number of Pokémon as of Pokémon Black and White versions.
+650.0,650 is an unremarkable number.
+651.0,651 is an unremarkable number.
+652.0,652 is an unremarkable number.
+653.0,653 is an uninteresting number.
+654.0,654 is a boring number.
+655.0,655 is an uninteresting number.
+656.0,656 is an unremarkable number.
+657.0,657 is an uninteresting number.
+658.0,658 is an unremarkable number.
+659.0,659 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+660.0,660 is an unremarkable number.
+661.0,661 is an unremarkable number.
+662.0,662 is an uninteresting number.
+663.0,663 is an unremarkable number.
+664.0,664 is an uninteresting number.
+665.0,665 is a boring number.
+666.0,666 is the number of the devil.
+667.0,667 is an uninteresting number.
+668.0,668 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+669.0,669 is a boring number.
+670.0,670 is an uninteresting number.
+671.0,671 is an uninteresting number.
+672.0,672 is an unremarkable number.
+673.0,673 is an uninteresting number.
+674.0,674 is an unremarkable number.
+675.0,675 is an unremarkable number.
+676.0,676 is a boring number.
+677.0,677 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+678.0,678 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+679.0,679 is an uninteresting number.
+680.0,680 is a boring number.
+681.0,681 is a boring number.
+682.0,682 is an uninteresting number.
+683.0,683 is an unremarkable number.
+684.0,684 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+685.0,685 is an uninteresting number.
+686.0,686 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+687.0,687 is a boring number.
+688.0,688 is an uninteresting number.
+689.0,689 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+690.0,690 is an unremarkable number.
+691.0,691 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+692.0,692 is an uninteresting number.
+693.0,693 is the number of sections in Ludwig Wittgenstein's Philosophical Investigations.
+694.0,694 is an unremarkable number.
+695.0,695 is the number of people dead in the single deadliest tornado in United States history (the F5 Tri-State Tornado in 1925).
+696.0,696 is an uninteresting number.
+697.0,697 is an uninteresting number.
+698.0,698 is an unremarkable number.
+699.0,699 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+700.0,700 is a boring number.
+701.0,701 is an unremarkable number.
+702.0,702 is an uninteresting number.
+703.0,703 is a boring number.
+704.0,704 is a boring number.
+705.0,705 is a boring number.
+706.0,706 is an unremarkable number.
+707.0,707 is an unremarkable number.
+708.0,708 is a boring number.
+709.0,709 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+710.0,710 is a boring number.
+711.0,711 is a boring number.
+712.0,712 is the largest known number such that it and its 8th power have no common digits.
+713.0,713 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+714.0,714 is the number of home runs Babe Ruth scored in his career.
+715.0,715 is a boring number.
+716.0,716 is a boring number.
+717.0,717 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+718.0,718 is a boring number.
+719.0,719 is an uninteresting number.
+720.0,"720 is five gross (= 500 duodecimal, 5 × 144)."
+721.0,721 is an unremarkable number.
+722.0,722 is a boring number.
+723.0,723 is a boring number.
+724.0,724 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+725.0,725 is a boring number.
+726.0,726 is a boring number.
+727.0,727 is a boring number.
+728.0,728 is a boring number.
+729.0,729 is the number of times a philosopher's pleasure is greater than a tyrant's pleasure according to Plato in the Republic.
+730.0,730 is an unremarkable number.
+731.0,731 is an uninteresting number.
+732.0,732 is a boring number.
+733.0,733 is an uninteresting number.
+734.0,734 is an unremarkable number.
+735.0,735 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+736.0,736 is an uninteresting number.
+737.0,737 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+738.0,738 is an unremarkable number.
+739.0,739 is a boring number.
+740.0,740 is an unremarkable number.
+741.0,741 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+742.0,742 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+743.0,743 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+744.0,744 is an unremarkable number.
+745.0,745 is a boring number.
+746.0,746 is an uninteresting number.
+747.0,747 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+748.0,748 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+749.0,749 is the pounds of paper products used by an American individual annually on average.
+750.0,750 is an unremarkable number.
+751.0,751 is an unremarkable number.
+752.0,752 is a boring number.
+753.0,753 is a boring number.
+754.0,754 is an uninteresting number.
+755.0,"755 is the number of home runs Hank Aaron ended his career with in 1976, a Major League record at the time."
+756.0,756 is a boring number.
+757.0,757 is an uninteresting number.
+758.0,758 is a boring number.
+759.0,759 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+760.0,760 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+761.0,761 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+762.0,762 is a boring number.
+763.0,763 is a boring number.
+764.0,764 is a boring number.
+765.0,765 is a boring number.
+766.0,766 is an unremarkable number.
+767.0,767 is a boring number.
+768.0,768 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+769.0,769 is a boring number.
+770.0,770 is a boring number.
+771.0,771 is an uninteresting number.
+772.0,772 is an uninteresting number.
+773.0,773 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+774.0,774 is an unremarkable number.
+775.0,775 is an unremarkable number.
+776.0,776 is an uninteresting number.
+777.0,777 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+778.0,778 is an uninteresting number.
+779.0,779 is an unremarkable number.
+780.0,780 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+781.0,781 is an unremarkable number.
+782.0,782 is a boring number.
+783.0,783 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+784.0,784 is an unremarkable number.
+785.0,785 is a boring number.
+786.0,786 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+787.0,787 is a boring number.
+788.0,788 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+789.0,789 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+790.0,790 is a boring number.
+791.0,791 is an uninteresting number.
+792.0,792 is an unremarkable number.
+793.0,793 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+794.0,794 is an unremarkable number.
+795.0,795 is an uninteresting number.
+796.0,796 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+797.0,797 is an uninteresting number.
+798.0,798 is an uninteresting number.
+799.0,799 is an unremarkable number.
+800.0,800 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+801.0,801 is an unremarkable number.
+802.0,802 is an unremarkable number.
+803.0,803 is a boring number.
+804.0,804 is an uninteresting number.
+805.0,805 is an unremarkable number.
+806.0,806 is a boring number.
+807.0,807 is an unremarkable number.
+808.0,808 is an unremarkable number.
+809.0,809 is an uninteresting number.
+810.0,810 is an unremarkable number.
+811.0,811 is an uninteresting number.
+812.0,812 is a boring number.
+813.0,813 is a boring number.
+814.0,814 is a boring number.
+815.0,815 is a boring number.
+816.0,816 is a boring number.
+817.0,817 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+818.0,818 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+819.0,819 is an uninteresting number.
+820.0,820 is a boring number.
+821.0,821 is a boring number.
+822.0,822 is a boring number.
+823.0,823 is an uninteresting number.
+824.0,824 is an uninteresting number.
+825.0,825 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+826.0,826 is a boring number.
+827.0,827 is an unremarkable number.
+828.0,828 is an uninteresting number.
+829.0,829 is an unremarkable number.
+830.0,830 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+831.0,831 is a boring number.
+832.0,832 is an uninteresting number.
+833.0,833 is a boring number.
+834.0,834 is an uninteresting number.
+835.0,835 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+836.0,836 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+837.0,837 is an unremarkable number.
+838.0,838 is an unremarkable number.
+839.0,839 is an uninteresting number.
+840.0,840 is an uninteresting number.
+841.0,841 is an unremarkable number.
+842.0,842 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+843.0,843 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+844.0,844 is an uninteresting number.
+845.0,845 is a boring number.
+846.0,846 is an unremarkable number.
+847.0,847 is an uninteresting number.
+848.0,848 is an uninteresting number.
+849.0,849 is an unremarkable number.
+850.0,850 is the maximum possible Fair Isaac credit score.
+851.0,851 is an unremarkable number.
+852.0,852 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+853.0,853 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+854.0,854 is an unremarkable number.
+855.0,855 is a boring number.
+856.0,856 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+857.0,857 is a boring number.
+858.0,858 is an uninteresting number.
+859.0,859 is an unremarkable number.
+860.0,860 is an unremarkable number.
+861.0,861 is an uninteresting number.
+862.0,862 is an unremarkable number.
+863.0,863 is a boring number.
+864.0,864 is an uninteresting number.
+865.0,865 is an unremarkable number.
+866.0,866 is an unremarkable number.
+867.0,867 is an unremarkable number.
+868.0,868 is an unremarkable number.
+869.0,869 is a boring number.
+870.0,870 is an unremarkable number.
+871.0,871 is a boring number.
+872.0,872 is a boring number.
+873.0,873 is a boring number.
+874.0,874 is an unremarkable number.
+875.0,875 is an unremarkable number.
+876.0,876 is an unremarkable number.
+877.0,877 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+878.0,878 is an unremarkable number.
+879.0,879 is an unremarkable number.
+880.0,880 is an unremarkable number.
+881.0,881 is a boring number.
+882.0,882 is an unremarkable number.
+883.0,883 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+884.0,884 is an unremarkable number.
+885.0,885 is a boring number.
+886.0,886 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+887.0,887 is a boring number.
+888.0,888 is a boring number.
+889.0,889 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+890.0,890 is an uninteresting number.
+891.0,891 is a boring number.
+892.0,892 is a boring number.
+893.0,893 is an unremarkable number.
+894.0,894 is an unremarkable number.
+895.0,895 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+896.0,896 is an unremarkable number.
+897.0,897 is an uninteresting number.
+898.0,898 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+899.0,899 is a boring number.
+900.0,900 is an uninteresting number.
+901.0,901 is a boring number.
+902.0,902 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+903.0,903 is an uninteresting number.
+904.0,904 is an uninteresting number.
+905.0,905 is an uninteresting number.
+906.0,906 is a boring number.
+907.0,907 is an uninteresting number.
+908.0,908 is an uninteresting number.
+909.0,909 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+910.0,910 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+911.0,911 is the number of days after September 11th that the Madrid Attack took place.
+912.0,912 is an unremarkable number.
+913.0,913 is an uninteresting number.
+914.0,914 is a boring number.
+915.0,915 is a boring number.
+916.0,916 is a boring number.
+917.0,917 is an unremarkable number.
+918.0,918 is an unremarkable number.
+919.0,919 is an uninteresting number.
+920.0,920 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+921.0,921 is an unremarkable number.
+922.0,922 is an unremarkable number.
+923.0,923 is a boring number.
+924.0,924 is a boring number.
+925.0,925 is an uninteresting number.
+926.0,926 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+927.0,927 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+928.0,928 is a boring number.
+929.0,929 is an uninteresting number.
+930.0,930 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+931.0,931 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+932.0,932 is an uninteresting number.
+933.0,933 is an unremarkable number.
+934.0,934 is an unremarkable number.
+935.0,935 is an unremarkable number.
+936.0,936 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+937.0,937 is a boring number.
+938.0,938 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+939.0,939 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+940.0,940 is an unremarkable number.
+941.0,941 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+942.0,942 is an uninteresting number.
+943.0,943 is an unremarkable number.
+944.0,944 is an unremarkable number.
+945.0,945 is an unremarkable number.
+946.0,946 is a boring number.
+947.0,947 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+948.0,948 is an unremarkable number.
+949.0,949 is a boring number.
+950.0,950 is an uninteresting number.
+951.0,951 is an uninteresting number.
+952.0,952 is a boring number.
+953.0,953 is an uninteresting number.
+954.0,954 is an uninteresting number.
+955.0,955 is an unremarkable number.
+956.0,956 is an uninteresting number.
+957.0,957 is a boring number.
+958.0,958 is an unremarkable number.
+959.0,959 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+960.0,960 is a boring number.
+961.0,961 is an uninteresting number.
+962.0,962 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+963.0,963 is an uninteresting number.
+964.0,964 is an unremarkable number.
+965.0,965 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+966.0,966 is an unremarkable number.
+967.0,967 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+968.0,968 is an unremarkable number.
+969.0,969 is an unremarkable number.
+970.0,970 is an uninteresting number.
+971.0,971 is an uninteresting number.
+972.0,972 is a boring number.
+973.0,973 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+974.0,974 is a boring number.
+975.0,975 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+976.0,976 is a boring number.
+977.0,977 is an unremarkable number.
+978.0,978 is an uninteresting number.
+979.0,979 is a boring number.
+980.0,980 is an uninteresting number.
+981.0,981 is a boring number.
+982.0,982 is an uninteresting number.
+983.0,983 is a boring number.
+984.0,984 is an unremarkable number.
+985.0,985 is a boring number.
+986.0,986 is a boring number.
+987.0,987 is a boring number.
+988.0,988 is a boring number.
+989.0,989 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+990.0,990 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+991.0,991 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+992.0,992 is an unremarkable number.
+993.0,993 is an unremarkable number.
+994.0,994 is an unremarkable number.
+995.0,995 is a boring number.
+996.0,996 is an uninteresting number.
+997.0,997 is an unremarkable number.
+998.0,998 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+999.0,999 is a number for which we're missing a fact (submit one to numbersapi at google mail!).
+1000.0,1000 is the number of elephants it took to bring in the material to build the Taj Mahal from various parts of India.
