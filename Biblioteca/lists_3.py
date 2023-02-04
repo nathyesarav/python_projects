@@ -1,3 +1,4 @@
+#Ejercicio de Listas 3
 
 #1.- Escribe una función que extraiga de una lista de números el menor y el mayor.
 def MaxMin(lista):
