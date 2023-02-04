@@ -14,6 +14,23 @@
 
    ##Índice
 
+   - Python intro
+   - Listas
+   - APIs
+   - Diccionario
+   - Series
+   - Pandas
+   - Escala Logarítmica
+   - Matplot
+   - Random Walk
+   - Regresión Cuadrática
+   - Tensor Flow
+   - Serie de Tiempo
+   - Prophet
+   - pyTorch
+   - Redes Neuronales
+
+
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
 *[Insignias](#insignias)
