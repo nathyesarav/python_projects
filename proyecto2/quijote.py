@@ -21,6 +21,5 @@ def main(palabras):
 main(palabras);
 
 print(sentiment.sentiment(textQuijote))
-
 print(palabras.index("quijote"))
 print(palabras[palabras.index("quijote")])
