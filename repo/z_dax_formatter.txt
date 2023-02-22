@@ -1,1 +1,0 @@
-Mi_Metrica = CALCULATE(SUM(tabla[Campo]),ALL(otra_tabla),FILTER(filtrar_tabla,filtrar_tabla[campo]=1 && filtrar_tabla[otro_campo] <= 100 && filtrar_tabla[edad] >= 18))
