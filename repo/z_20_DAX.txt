@@ -1,0 +1,36 @@
+-- ya existente
+
+_TotalAmount_OK = 
+SUMX(Fact_Sales,(Fact_Sales[UnitPrice]*Fact_Sales[Quantity])- Fact_Sales[Discount] )
+
+**************************
+_OnlyBeveragesAmount = 
+CALCULATE(
+    Fact_Sales[_TotalAmount_OK],
+    FILTER(
+        Dim_Products,
+        Dim_Products[Categories.CategoryName] = "Beverages"
+    )
+)
+**************************
+_GrandTotalAmount = 
+CALCULATE(
+    Fact_Sales[_TotalAmount_OK],
+    ALL(Dim_Products)
+)
+**************************
+_%Amount = DIVIDE(Fact_Sales[_TotalAmount_OK],Fact_Sales[_GrandTotalAmount])
+**************************
+_GrandTotalAmountSelected = 
+CALCULATE(
+    Fact_Sales[_TotalAmount_OK],
+    ALLSELECTED(Dim_Products)
+)
+**************************
+_%AmountSelected = DIVIDE(Fact_Sales[_TotalAmount_OK],Fact_Sales[_GrandTotalAmountSelected])
+**************************
+_GrandTotalAmountExcept = 
+CALCULATE(
+    Fact_Sales[_TotalAmount_OK],
+    ALLEXCEPT(Dim_Products,Dim_Products[ProductName])
+)

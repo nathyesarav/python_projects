@@ -1,0 +1,1001 @@
+País	Ciudad	Código
+South Africa	Bloemfontein	ZA
+Thailand	Pho Thale	TH
+France	Boissy-Saint-LÃ©ger	FR
+Thailand	Den Chai	TH
+Philippines	Santo NiÃ±o	PH
+Russia	Kokoshkino	RU
+Morocco	Tidili Mesfioua	MA
+Indonesia	Tanggulangin	ID
+Poland	Sierakowice	PL
+Philippines	Santo NiÃ±o	PH
+Indonesia	Padhahegha	ID
+Yemen	Al â€˜Ä€qir	YE
+China	Dashi	CN
+Brazil	Osasco	BR
+Papua New Guinea	Kainantu	PG
+France	Paris 15	FR
+Philippines	Sitangkai	PH
+Serbia	BaÄka Topola	RS
+Indonesia	Lokatadho	ID
+Russia	Blagodarnyy	RU
+China	Tuqiao	CN
+Indonesia	Waerana	ID
+Brazil	SÃ£o Raimundo Nonato	BR
+Denmark	KÃ¸benhavn	DK
+Pakistan	BhawÄna	PK
+China	Dazhongzhuang	CN
+Lesotho	Leribe	LS
+China	Jiangfang	CN
+Ireland	Gort	IE
+Zambia	Kasempa	ZM
+Syria	Tartouss	SY
+China	Anningqu	CN
+China	Zhourui	CN
+Ecuador	Gonzalo Pizarro	EC
+Colombia	Palestina	CO
+Sweden	Halmstad	SE
+Indonesia	Banyuurip	ID
+China	Jishan	CN
+Turkmenistan	Yylanly	TM
+Nigeria	Shagamu	NG
+Portugal	Ulme	PT
+Iraq	KhÄliÅŸ	IQ
+Philippines	Nambalan	PH
+China	Banqiao	CN
+China	Doumen	CN
+Panama	La Mesa	PA
+China	Guanting	CN
+China	Baochang	CN
+Netherlands	Delft	NL
+Portugal	GÃ©meos	PT
+Israel	Yavne	IL
+Germany	Heilbronn	DE
+Russia	Spassk-Dalâ€™niy	RU
+Russia	Malaya Purga	RU
+Portugal	Casa Nova	PT
+China	Dongshan	CN
+Thailand	Pakham	TH
+China	Jiaocha	CN
+Japan	FuchÅ«chÅ	JP
+France	Dinan	FR
+Poland	Sadkowice	PL
+China	Beiping	CN
+Brazil	IperÃ³	BR
+Philippines	Sabtang	PH
+Poland	PÅ‚ock	PL
+Nicaragua	La Libertad	NI
+Uganda	Kasese	UG
+Philippines	Cauayan	PH
+Brazil	Camanducaia	BR
+Mexico	El Refugio	MX
+Poland	Stare Juchy	PL
+Indonesia	Baran	ID
+China	Honggang	CN
+China	Huaqiao	CN
+Mayotte	Sada	YT
+Niger	Ayorou	NE
+Russia	Korkino	RU
+Czech Republic	TelÄ	CZ
+Russia	Shatalovo	RU
+Uzbekistan	Parkent	UZ
+Indonesia	Taunan	ID
+Russia	Severo-Zadonsk	RU
+China	Shanghu	CN
+Poland	Ruda Maleniecka	PL
+Poland	KoÅ›cielec	PL
+China	Jianzhatan	CN
+Indonesia	Astanajapura	ID
+Poland	Wierzawice	PL
+Greece	VÃ­lia	GR
+Thailand	Sattahip	TH
+Russia	Temizhbekskaya	RU
+Grenada	Saint George's	GD
+Slovenia	Bistrica pri TrÅ¾iÄu	SI
+Indonesia	Ceper	ID
+China	Jianjiang	CN
+China	Xiaohekou	CN
+Sweden	GÃ¶teborg	SE
+Ireland	Newmarket on Fergus	IE
+Portugal	Palhais	PT
+China	Hongtang	CN
+Philippines	Ronda	PH
+Philippines	Nanyo	PH
+Poland	Siemiatycze	PL
+Peru	Querocotillo	PE
+Portugal	SÃ£o JoÃ£o das Lampas	PT
+Russia	Kamenâ€™-na-Obi	RU
+Portugal	Morgados	PT
+Czech Republic	Lubenec	CZ
+China	Mengxi	CN
+China	Baiyang	CN
+Brazil	Campos Gerais	BR
+Russia	Ustâ€™-Kalmanka	RU
+Indonesia	Cayur	ID
+North Korea	Kanggye-si	KP
+Comoros	Itsandra	KM
+Guatemala	San Luis Jilotepeque	GT
+China	Tacheng	CN
+Greece	FoÃºrnoi	GR
+Canada	Macamic	CA
+China	Nanping	CN
+China	Guji	CN
+Russia	Lyskovo	RU
+China	Dongwan	CN
+Russia	Staromyshastovskaya	RU
+Philippines	President Roxas	PH
+Russia	Vyazniki	RU
+Ireland	Cill Airne	IE
+Bulgaria	TvÅ­rditsa	BG
+Portugal	Aveiras de Cima	PT
+Greece	VrÃ½ses	GR
+Italy	Livorno	IT
+China	Zhonggang	CN
+China	Chengnan	CN
+Indonesia	Nangabere	ID
+Russia	Kimilâ€™tey	RU
+Denmark	Frederiksberg	DK
+Colombia	CÃ³rdoba	CO
+China	Banjiang	CN
+Indonesia	Pakemitan	ID
+United States	Kansas City	US
+United States	Los Angeles	US
+Brazil	JoÃ£o CÃ¢mara	BR
+Tunisia	Siliana	TN
+China	Benhao	CN
+Iran	Naqadeh	IR
+Indonesia	Guay	ID
+Mexico	Guadalupe	MX
+China	Liangwa	CN
+United States	Staten Island	US
+China	Qianzhou	CN
+Palestinian Territory	QaÅ£anah	PS
+Djibouti	'Ali Sabieh	DJ
+Russia	Chikola	RU
+China	Liushui	CN
+Japan	Buzen	JP
+Russia	Shilovo	RU
+Poland	Lipka	PL
+Lithuania	Zarasai	LT
+Philippines	Gocoton	PH
+Russia	Tatarsk	RU
+Philippines	Biao	PH
+Philippines	Bulacan	PH
+Portugal	Sabugal	PT
+Ireland	Moville	IE
+Peru	Hualgayoc	PE
+Poland	Kroczyce	PL
+Brazil	AragarÃ§as	BR
+United States	Atlanta	US
+China	Shaliangzi	CN
+China	Shuyuan	CN
+China	Donggaocun	CN
+Mongolia	Shiree	MN
+Kazakhstan	Zhangaqorghan	KZ
+Poland	SÅ‚ubice	PL
+Indonesia	Manutapen	ID
+Mexico	Independencia	MX
+China	Guleluke	CN
+Indonesia	Krajan Tambakrejo	ID
+Indonesia	Karangbayat	ID
+United States	Schaumburg	US
+Poland	Orneta	PL
+China	Laoqiao	CN
+China	Jianshan	CN
+Pakistan	TÄndo Mittha KhÄn	PK
+Faroe Islands	TvÃ¸royri	FO
+China	Beiyang	CN
+France	BÃ©ziers	FR
+China	Bayart Huxu	CN
+Japan	Izumi	JP
+Tunisia	Sahline	TN
+Japan	Umi	JP
+Malaysia	Kuching	MY
+Belarus	Vawkavysk	BY
+China	Shangsha	CN
+Indonesia	Nangkasari	ID
+Cuba	Banes	CU
+Chile	CaÃ±ete	CL
+Canada	Les Coteaux	CA
+Sweden	Halmstad	SE
+Slovenia	Senovo	SI
+China	Chongxing	CN
+Czech Republic	KovÃ¡Å™ov	CZ
+Indonesia	Ngrejo	ID
+China	Pengxing	CN
+China	Zhili	CN
+Poland	StrzyÅ¼owice	PL
+Uzbekistan	BÅ­ka	UZ
+Poland	Skrzydlna	PL
+China	Jieheshi	CN
+China	Sicheng	CN
+Brazil	Duque de Caxias	BR
+China	Changzhi	CN
+Poland	KokotÃ³w	PL
+Russia	Mnogoudobnoye	RU
+Iran	Gonbad-e KÄvÅ«s	IR
+Indonesia	Leran Wetan	ID
+China	Huazangsi	CN
+Russia	Pristenâ€™	RU
+China	Linqu	CN
+Croatia	Jagodnjak	HR
+Indonesia	Sepatan	ID
+Brazil	Guararema	BR
+Brazil	UruaÃ§u	BR
+Uzbekistan	Yaypan	UZ
+Portugal	Penha Longa	PT
+Netherlands	Arnhem	NL
+China	Xilin	CN
+Slovenia	Puconci	SI
+El Salvador	Guazapa	SV
+China	Huaping	CN
+France	Calais	FR
+South Africa	Bloemfontein	ZA
+China	Huili	CN
+Germany	Dortmund	DE
+China	Nanâ€™an	CN
+Indonesia	Kotauneng	ID
+Russia	Kosikha	RU
+China	Zhangfeng	CN
+Argentina	Las Parejas	AR
+Brazil	Sarandi	BR
+Ukraine	Krasnokutsâ€™k	UA
+Czech Republic	HvozdnÃ¡	CZ
+Tajikistan	Boshchorbogh	TJ
+Philippines	Ambulong	PH
+Ireland	Dundrum	IE
+China	Wujingfu	CN
+Paraguay	Santiago	PY
+France	Marseille	FR
+Russia	Log	RU
+Belarus	Drybin	BY
+China	Hengxianhe	CN
+Malaysia	Ipoh	MY
+Indonesia	Koten	ID
+Sweden	GÃ¶teborg	SE
+Indonesia	Bendungan	ID
+Philippines	Malibago	PH
+Kiribati	Makin Village	KI
+Indonesia	Sepolong Timur	ID
+Indonesia	Meringkik	ID
+Philippines	Magbay	PH
+France	Bordeaux	FR
+Greece	KampÃ¡nis	GR
+Russia	Mayma	RU
+Portugal	Souto	PT
+China	Shuinan	CN
+Indonesia	Negararatu	ID
+Micronesia	Tonoas Municipal Building	FM
+Colombia	La Tola	CO
+Argentina	EmbarcaciÃ³n	AR
+Dominican Republic	Juncalito Abajo	DO
+Sweden	VÃ¤sterÃ¥s	SE
+Portugal	Lameiras	PT
+Indonesia	Maredakalada	ID
+Canada	Sainte-Martine	CA
+Portugal	SÃ£o Martinho	PT
+Netherlands	Haarlem	NL
+Indonesia	Batangtoru	ID
+Argentina	Comandante Luis Piedra Buena	AR
+Egypt	Saint Catherine	EG
+Indonesia	Warungbanten	ID
+Russia	Uvarovo	RU
+Russia	Ustâ€™-Uda	RU
+Vietnam	TÃ¢n Ká»³	VN
+Greece	LefkÃ­mmi	GR
+Peru	Andarapa	PE
+United States	Tulsa	US
+Argentina	Casilda	AR
+Mexico	Vicente Guerrero	MX
+Canada	Nipawin	CA
+North Korea	SariwÅn	KP
+China	Zhongdong	CN
+Egypt	MinÅ«f	EG
+Georgia	Tsaghveri	GE
+China	Dongke	CN
+China	Xindong	CN
+Philippines	Lungaog	PH
+Philippines	Banaba	PH
+China	Huangyan	CN
+China	Daxin	CN
+Argentina	Presidencia Roque SÃ¡enz PeÃ±a	AR
+Philippines	Bunol	PH
+Slovenia	Ribnica na Pohorju	SI
+Israel	Na'ale	IL
+Vietnam	TÃ¢y Äáº±ng	VN
+China	Xiqi	CN
+Bosnia and Herzegovina	Hotonj	BA
+Argentina	El Soberbio	AR
+Thailand	Phra Nakhon Si Ayutthaya	TH
+China	Longjin	CN
+China	Kan	CN
+Portugal	Reriz	PT
+Iran	GonÄbÄd	IR
+China	Sanjie	CN
+Brazil	SÃ£o Roque	BR
+Norway	Asker	NO
+China	Sanxiang	CN
+China	Jining	CN
+Philippines	Butuan	PH
+Ukraine	Feodosiya	UA
+China	Beitan	CN
+Cuba	Calimete	CU
+Venezuela	Quiriquire	VE
+Philippines	Victoria	PH
+China	Hekou	CN
+Canada	High River	CA
+China	Cheban	CN
+China	Beihe	CN
+China	Rentian	CN
+Nigeria	Obonoma	NG
+Bolivia	PotosÃ­	BO
+Indonesia	Sentani	ID
+Venezuela	Cabimas	VE
+Ukraine	Voskhod	UA
+China	Erlangkou	CN
+Montenegro	MataguÅ¾i	ME
+Russia	Serpukhov	RU
+China	Dawangzhuang	CN
+Poland	ÅaniÄ™ta	PL
+China	Luoxi	CN
+United States	Shreveport	US
+United States	Atlanta	US
+Afghanistan	KhÅshÄ«	AF
+Indonesia	Keboireng	ID
+Russia	Ilâ€™skiy	RU
+Portugal	Farinheiras	PT
+United States	Houston	US
+China	Puwa	CN
+Thailand	Na Tan	TH
+France	Paris 19	FR
+Canada	Nanton	CA
+China	Zhifang	CN
+Peru	Acas	PE
+United States	Oklahoma City	US
+Czech Republic	LoÅ¡tice	CZ
+Russia	Aya	RU
+Croatia	Kraljevica	HR
+China	Lingcheng	CN
+Indonesia	Kotes	ID
+China	Tiehe	CN
+China	Nanyulinxi	CN
+Brazil	Barbalha	BR
+China	Shuanglu	CN
+Azerbaijan	AÄŸdaÅŸ	AZ
+Indonesia	Pergan	ID
+China	Xiangshun	CN
+China	Dongtang	CN
+Indonesia	Pakis	ID
+Finland	PerniÃ¶	FI
+China	Leicheng	CN
+China	Huangtian	CN
+China	Dacheng	CN
+Nigeria	Kwolla	NG
+Indonesia	Panineungan	ID
+Indonesia	Tenggina Daya	ID
+Spain	Getafe	ES
+Russia	Krasnorechenskiy	RU
+Albania	RrapÃ«	AL
+China	Xijiang	CN
+China	Matou	CN
+China	Jinshiqiao	CN
+Thailand	Chom Bueng	TH
+Vietnam	áº¤p TÃ¢n NgÃ£i	VN
+France	Brive-la-Gaillarde	FR
+Portugal	Alvito de SÃ£o Pedro	PT
+Indonesia	Banjar Geriana Kangin	ID
+Poland	Kobylanka	PL
+Venezuela	Guanta	VE
+Belarus	Pyetrykaw	BY
+Indonesia	Cibeureum	ID
+Indonesia	Ciawi	ID
+Poland	FajsÅ‚awice	PL
+Indonesia	Banda Layung	ID
+Mongolia	Mardzad	MN
+Indonesia	Simpang	ID
+Czech Republic	Radvanice	CZ
+Pakistan	VihÄri	PK
+Indonesia	Cikadu	ID
+United States	Tulsa	US
+United States	Albany	US
+Iran	Bardaskan	IR
+Morocco	Ghouazi	MA
+China	Jingmen	CN
+China	Lengkeng	CN
+Portugal	QuintÃ£	PT
+Serbia	InÄ‘ija	RS
+Indonesia	Gempolan Wetan	ID
+Guatemala	ConcepciÃ³n Tutuapa	GT
+China	Jiaâ€™an	CN
+Greece	StalÃ­s	GR
+Russia	Krasnokholm	RU
+United States	Charlotte	US
+Indonesia	Tangkil	ID
+Sweden	NorrkÃ¶ping	SE
+China	Xinxian	CN
+Kazakhstan	Lenger	KZ
+Indonesia	Sidenreng	ID
+Czech Republic	DolnÃ­ Kounice	CZ
+Philippines	Pola	PH
+Peru	San Pablo	PE
+Thailand	Phichai	TH
+Portugal	Vale Maceiras	PT
+Indonesia	Tegalsari	ID
+United States	Miami	US
+Indonesia	Cisiih	ID
+China	Chengyang	CN
+Czech Republic	DolnÃ­ Cerekev	CZ
+France	Amiens	FR
+Indonesia	Pakemitan	ID
+China	Zeqin	CN
+China	Zhangjiachang	CN
+United States	Shawnee Mission	US
+Canada	Fort Erie	CA
+Japan	Mihara	JP
+Philippines	San Pedro	PH
+Brazil	Ipaba	BR
+Czech Republic	Radvanice	CZ
+Russia	Pridonskoy	RU
+United States	Asheville	US
+Cameroon	Manjo	CM
+Poland	ChodÃ³w	PL
+Portugal	Marinha	PT
+Russia	Monastyrshchina	RU
+Cape Verde	Vila de Sal Rei	CV
+Serbia	Subotica	RS
+Syria	Kafr TakhÄrÄ«m	SY
+China	Pinglumiao	CN
+Colombia	Cicuco	CO
+Yemen	á¸¨abÄ«l ar Raydah	YE
+Honduras	Trujillo	HN
+Peru	Querobamba	PE
+China	Hengqu	CN
+Philippines	Sampao	PH
+Philippines	Estancia	PH
+China	Shangmachang	CN
+Colombia	Sabanalarga	CO
+Afghanistan	â€™UnÄbah	AF
+Pakistan	Karaundi	PK
+Brazil	Imbituva	BR
+Thailand	Thai Charoen	TH
+Brazil	Forquilhinha	BR
+China	Zhuanshui	CN
+New Zealand	Waipawa	NZ
+Swaziland	Piggs Peak	SZ
+Czech Republic	MalÅ¡ice	CZ
+Brazil	RibeirÃ£o Pires	BR
+Brazil	SertÃ£ozinho	BR
+Mongolia	Holboo	MN
+Australia	Sydney	AU
+Philippines	Luna	PH
+Indonesia	Muke	ID
+China	Hucheng	CN
+China	Xicheng	CN
+Indonesia	Banjar Kampungbugis	ID
+China	Jiji	CN
+France	BÃ©ziers	FR
+Indonesia	Ngrejo	ID
+United States	Jefferson City	US
+China	Shangde	CN
+France	Avignon	FR
+Lithuania	RÅ«diÅ¡kÄ—s	LT
+China	Dongâ€™an	CN
+China	Huafeng	CN
+Russia	Chernomorskiy	RU
+Cameroon	Kumba	CM
+China	Shanhou	CN
+Philippines	Kiamba	PH
+Brazil	Almeirim	BR
+Zimbabwe	Gokwe	ZW
+Macedonia	Ð¡Ð°Ñ€Ð°Ñ˜	MK
+China	Zhaobei	CN
+Indonesia	Morbatoh	ID
+China	Qiman	CN
+China	Zaindainxoi	CN
+Chad	Am Djarass	TD
+France	Lillers	FR
+Indonesia	Pajagan	ID
+South Korea	Hajeom	KR
+Thailand	Chumphon	TH
+Russia	Dubovka	RU
+Egypt	Bilbays	EG
+Indonesia	Sempu	ID
+Brazil	Cajati	BR
+China	Shajing	CN
+Russia	Tomari	RU
+China	Akebielidou	CN
+France	Villejuif	FR
+Thailand	Wang Noi	TH
+France	Bayonne	FR
+China	Dingyan	CN
+Russia	Dzhubga	RU
+Mexico	Guadalupe	MX
+China	Xingtan	CN
+Bulgaria	Slavyanovo	BG
+Argentina	Fray Luis A. BeltrÃ¡n	AR
+Portugal	AlgÃ©s	PT
+Indonesia	Krajan Puru	ID
+Sierra Leone	Seidu	SL
+China	Baiguo	CN
+Burkina Faso	Gaoua	BF
+Yemen	Mabyan	YE
+Canada	Kirkland Lake	CA
+China	Hekou	CN
+Bosnia and Herzegovina	Pale	BA
+Philippines	Guimba	PH
+Indonesia	Puteran Kidul	ID
+Norway	Stavanger	NO
+Canada	Athabasca	CA
+Portugal	Caldelas	PT
+Brazil	Mari	BR
+China	Yongjiang	CN
+Bosnia and Herzegovina	Sanski Most	BA
+Philippines	Loacan	PH
+Russia	Lyaskelya	RU
+Indonesia	Hokor	ID
+Portugal	Castanheira	PT
+Brazil	Rio Formoso	BR
+Honduras	AraulÃ­	HN
+Russia	Bolâ€™shoy Kamenâ€™	RU
+New Zealand	Waitangi	NZ
+Poland	Miejska GÃ³rka	PL
+Syria	ÙƒØ§Ù Ø§Ù„Ø¬Ø§Ø¹	SY
+China	Tiehe	CN
+Ukraine	Kotelâ€™va	UA
+Japan	Inuotose	JP
+Martinique	Le Lamentin	MQ
+Greece	ArÃ¡chova	GR
+Indonesia	Semerak	ID
+Indonesia	Kasturi	ID
+United States	Savannah	US
+Poland	Zubrzyca Dolna	PL
+Brazil	SÃ£o JoÃ£o dos Inhamuns	BR
+United States	Boca Raton	US
+Russia	Kemlya	RU
+Philippines	Santa Cruz	PH
+Russia	Lakkha NÃ«vre	RU
+Peru	Guadalupe	PE
+Brazil	Catende	BR
+China	Hoxtolgay	CN
+Portugal	Ribeiro	PT
+France	Bordeaux	FR
+Indonesia	Parapat	ID
+Gambia	Dankunku	GM
+Ukraine	Terpinnya	UA
+Thailand	Chaiyaphum	TH
+Colombia	LÃ©rida	CO
+Nigeria	Potiskum	NG
+Colombia	El Charco	CO
+France	OrlÃ©ans	FR
+China	Changâ€™an	CN
+Portugal	SÃ£o Pedro	PT
+China	Xintai	CN
+Brazil	Miracema	BR
+Philippines	Babak	PH
+China	Xiaoyi	CN
+Indonesia	Balengbeng	ID
+Botswana	Tonota	BW
+Colombia	Leticia	CO
+Russia	Issa	RU
+China	Jining	CN
+China	Zhongshan	CN
+Indonesia	Lingsar	ID
+Philippines	Arenas	PH
+Laos	ThakhÃ¨k	LA
+China	Shengli	CN
+France	Lille	FR
+China	Jinshan	CN
+Hungary	Budapest	HU
+China	Xiangrong	CN
+France	Valence	FR
+United States	Oklahoma City	US
+Philippines	Tiniguiban	PH
+Indonesia	Citambal	ID
+Palestinian Territory	Turmusâ€˜ayyÄ	PS
+Argentina	Laguna Paiva	AR
+Indonesia	Krajan	ID
+Indonesia	Sengkerang Tiga	ID
+Pakistan	TalhÄr	PK
+Russia	Nurlat	RU
+China	Aâ€™yi Take	CN
+China	Dongluqiao	CN
+France	Lille	FR
+Russia	Mikhaylovka	RU
+China	Jinping	CN
+South Africa	Graksop	ZA
+Vietnam	Äá»‘ng Äa	VN
+Indonesia	Bombu	ID
+Brazil	Laranjal Paulista	BR
+Ukraine	Bilyayivka	UA
+United States	Orlando	US
+Guatemala	San Juan SacatepÃ©quez	GT
+Bahamas	Spanish Wells	BS
+Philippines	Luna	PH
+Canada	Longueuil	CA
+Nigeria	Jega	NG
+Indonesia	Wairinding	ID
+France	Vanves	FR
+Iran	HendÄ«jÄn	IR
+Russia	Kadyy	RU
+Poland	Kaczory	PL
+Mexico	Buenos Aires	MX
+Indonesia	Sindanghayu	ID
+Russia	Losino-Petrovskiy	RU
+Panama	Quebrada Canoa	PA
+Japan	Kariya	JP
+Republic of the Congo	Owando	CG
+Morocco	Imider	MA
+Indonesia	Montonggamang	ID
+Canada	Merritt	CA
+China	Nieying	CN
+Indonesia	Anggana	ID
+Brazil	GuaÃ§uÃ­	BR
+China	Shangtianba	CN
+Colombia	Roldanillo	CO
+Argentina	General Roca	AR
+Uruguay	Bella UniÃ³n	UY
+Argentina	Leones	AR
+Yemen	Al Qurá¸©	YE
+Yemen	Kushar	YE
+Philippines	Buenlag	PH
+Sweden	Ã–rebro	SE
+South Korea	Osan	KR
+China	Longgang	CN
+Sweden	GÃ¶teborg	SE
+Greece	SouflÃ­	GR
+Indonesia	Sinarbakti	ID
+Sweden	Solna	SE
+China	Hongshanzui	CN
+Indonesia	Cibangban Girang	ID
+China	Guozhuang	CN
+China	Qaxa	CN
+China	Wucun	CN
+Poland	SuÅ‚oszowa	PL
+China	Chaihe	CN
+Greece	AnthoÃºsa	GR
+Japan	Tomioka	JP
+Bulgaria	Lyaskovets	BG
+Ukraine	Strohonivka	UA
+China	Hexiangqiao	CN
+Poland	CegÅ‚Ã³w	PL
+Kazakhstan	Akkolâ€™	KZ
+Russia	Staropavlovskaya	RU
+France	Auray	FR
+Greece	PanÃ³rama	GR
+Indonesia	Tembau	ID
+Ukraine	Bilovods'k	UA
+China	Jichang	CN
+Greece	RÃ­zoma	GR
+Comoros	HÃ©roumbili	KM
+Argentina	CuruzÃº CuatiÃ¡	AR
+Pakistan	Bulri	PK
+El Salvador	Cacaopera	SV
+Russia	Tugulym	RU
+China	Changning	CN
+Croatia	Sunja	HR
+Poland	Potok ZÅ‚oty	PL
+Indonesia	Tunggulsari	ID
+Palestinian Territory	Budrus	PS
+Honduras	La Sabana	HN
+China	Yuexi	CN
+Peru	Carhuac	PE
+Argentina	Yuto	AR
+Estonia	Narva	EE
+Lesotho	Maseru	LS
+Russia	Zhigulevsk	RU
+China	Xinzhai	CN
+United Kingdom	Linton	GB
+Philippines	Bitin	PH
+Indonesia	Sumbergayam	ID
+Slovenia	Trnovska Vas	SI
+China	Jinzipai	CN
+China	Huangge	CN
+Palestinian Territory	Bayt Wazan	PS
+South Korea	Seongnam-si	KR
+Netherlands	Voorburg	NL
+Democratic Republic of the Congo	Aketi	CD
+Russia	Strogino	RU
+Poland	Przytyk	PL
+Brazil	ParobÃ©	BR
+China	Shangyang	CN
+Afghanistan	Babasakhib	AF
+Israel	Yavne	IL
+Poland	Humniska	PL
+Syria	SulÅ«k	SY
+Philippines	Santiago	PH
+Indonesia	Pasirhuni	ID
+Portugal	Ribeiro	PT
+China	Chisong	CN
+Morocco	Oued Zem	MA
+China	Chenjiahe	CN
+France	Perpignan	FR
+Sweden	SpÃ¥nga	SE
+Bulgaria	Peshtera	BG
+United States	Pittsburgh	US
+Egypt	AwsÄ«m	EG
+Philippines	Boac	PH
+China	Fangbu	CN
+Philippines	Cabannungan Second	PH
+Czech Republic	StarÃ© MÄ›sto	CZ
+Portugal	Cruz	PT
+Russia	Lakhdenpokhâ€™ya	RU
+Spain	Santa Cruz De Tenerife	ES
+Poland	Grojec	PL
+Myanmar	Magway	MM
+China	Shiling	CN
+Ukraine	Topory	UA
+Czech Republic	PÅ™Ã­bram	CZ
+China	Hujiagou	CN
+Russia	Zaymishche	RU
+Kosovo	Lumbardhi	XK
+China	Hengpi	CN
+Indonesia	Krajanbaturno	ID
+Saudi Arabia	â€˜AfÄ«f	SA
+China	Wukeshu	CN
+Indonesia	Sukorejo	ID
+Poland	Kowale Oleckie	PL
+Albania	Shirgjan	AL
+Indonesia	Makbon	ID
+Brazil	Tanabi	BR
+Nigeria	Zadawa	NG
+Ireland	Farranacoush	IE
+Brazil	ViamÃ£o	BR
+Indonesia	Tangerang	ID
+Czech Republic	Rudolfov	CZ
+Venezuela	Pregonero	VE
+United States	Houston	US
+China	Maochen	CN
+Ukraine	Myrnyy	UA
+South Sudan	Leer	SS
+Morocco	Riah	MA
+Brazil	SÃ£o Vicente	BR
+South Africa	Somerset East	ZA
+China	Yingwusitang	CN
+Brazil	Garibaldi	BR
+Czech Republic	Jakartovice	CZ
+China	Baoxu	CN
+Luxembourg	Moutfort	LU
+China	Gouyan	CN
+China	Daqian	CN
+Sierra Leone	Daru	SL
+Macedonia	Skopje	MK
+Vietnam	Haiphong	VN
+Indonesia	Legok	ID
+Philippines	Pulangbato	PH
+Poland	Milicz	PL
+Mongolia	Hoolt	MN
+Vietnam	Thuáº­n Nam	VN
+Argentina	Merlo	AR
+Portugal	Bemposta	PT
+Philippines	Estancia	PH
+Indonesia	Lamongan	ID
+China	Xiaozhang	CN
+Peru	Caminaca	PE
+China	Maoshan	CN
+Philippines	Kawit	PH
+France	Cergy-Pontoise	FR
+Spain	Zamora	ES
+China	Lesuhe	CN
+Sweden	Uddevalla	SE
+Thailand	Cha-am	TH
+United States	Atlanta	US
+France	Laxou	FR
+Hong Kong	Sok Kwu Wan	HK
+Russia	Usmanâ€™	RU
+China	Housuo	CN
+France	Sarrebourg	FR
+El Salvador	Chirilagua	SV
+Indonesia	Banjar Medura	ID
+Indonesia	Cabean	ID
+Afghanistan	MÄymay	AF
+Indonesia	Indralayang	ID
+Russia	Zelenchukskaya	RU
+Nigeria	Owode	NG
+Mongolia	Altanbulag	MN
+China	Rongkou	CN
+Philippines	Panalo-on	PH
+Ukraine	Koloniya Zastavâ€™ye	UA
+China	Shuanglong	CN
+Ukraine	Rybache	UA
+France	Orsay	FR
+Norway	Trondheim	NO
+China	Baoshi	CN
+Russia	Borogontsy	RU
+Kazakhstan	Arys	KZ
+Sweden	BorÃ¥s	SE
+Brazil	Senhor do Bonfim	BR
+Serbia	Boljevac	RS
+Mongolia	Havtsal	MN
+China	Dashahe	CN
+Greece	XilÃ³polis	GR
+Egypt	BÅ«r SafÄjah	EG
+Tanzania	Itigi	TZ
+Indonesia	Oenopu	ID
+Ukraine	Verkhniy Yasenov	UA
+Russia	Pristenâ€™	RU
+France	Rungis	FR
+France	ChÃ¢tillon	FR
+Greece	KalÃ¡vryta	GR
+Brazil	Caxias	BR
+Czech Republic	Smidary	CZ
+Bosnia and Herzegovina	Rudo	BA
+Philippines	Aga	PH
+Democratic Republic of the Congo	Ilebo	CD
+Venezuela	BoconÃ³	VE
+Indonesia	Kadukandel	ID
+China	Baiâ€™e	CN
+Lithuania	KurÅ¡Ä—nai	LT
+United States	Jacksonville	US
+Philippines	Urbiztondo	PH
+Thailand	Nong Phai	TH
+Russia	Belomorsk	RU
+France	Bourg-en-Bresse	FR
+Russia	Samara	RU
+Brazil	Manaus	BR
+Denmark	KÃ¸benhavn	DK
+Portugal	SÃ£o TomÃ©	PT
+Israel	Naá¸¥f	IL
+Indonesia	Puncakwangi	ID
+Bolivia	Mapiri	BO
+El Salvador	Ciudad Arce	SV
+Sweden	Enskededalen	SE
+Indonesia	Babakankadu	ID
+Uzbekistan	Dashtobod	UZ
+Japan	Fujioka	JP
+Ivory Coast	Abobo	CI
+Thailand	Bang Mun Nak	TH
+Japan	Mibu	JP
+Pakistan	Dera MurÄd JamÄli	PK
+Brazil	Pedra Branca	BR
+China	Pingshui	CN
+China	Wufeng	CN
+Russia	Valuyki	RU
+Russia	Uspenskoye	RU
+Portugal	Padre Nabeto	PT
+China	Xinying	CN
+Ukraine	Kramatorsâ€™k	UA
+Costa Rica	San JosÃ©	CR
+Brazil	Guararema	BR
+Philippines	Nangka	PH
+China	Huogezhuang	CN
+Mauritius	Saint Pierre	MU
+Argentina	CarhuÃ©	AR
+United States	Vancouver	US
+China	Xucheng	CN
+Portugal	Boavista	PT
+China	Xinqiao	CN
+France	Saint-Jean-de-Braye	FR
+France	Paris 11	FR
+Russia	Srednebelaya	RU
+Indonesia	Banyutengah	ID
+Syria	NawÃ¡	SY
+Czech Republic	DolnÃ­ Dunajovice	CZ
+South Africa	Dordrecht	ZA
+Brazil	Coronel Vivida	BR
+Portugal	Agrela	PT
+China	Pukou	CN
+Slovenia	PoljÄane	SI
+Japan	Iwatsuki	JP
+Russia	Zuyevka	RU
+Japan	Ichihara	JP
+Colombia	Montenegro	CO
+Indonesia	Krajan Gajahmati	ID
+Zambia	Mansa	ZM
+China	Fengle	CN
+France	Fontainebleau	FR
+China	Longping	CN
+Netherlands	Middelburg	NL
+Poland	Olesno	PL
+Poland	BorzÄ™cin	PL
+China	Duyun	CN
+China	Dalang	CN
+Nigeria	Jibiya	NG
+Russia	Verkh-Usugli	RU
+Portugal	AtÃ£es	PT
+Slovenia	Zasip	SI
+Philippines	Corcuera	PH
+Indonesia	Karanggintung	ID
+Indonesia	Baturinggit Kaja	ID
+Estonia	Kilingi-NÃµmme	EE
+South Africa	Kroonstad	ZA
+Iran	ÄªzÌ„eh	IR
+Ukraine	Vinnytsya	UA
+Portugal	QuintÃ£s	PT
+Sierra Leone	Magburaka	SL
+Mexico	Las Palmas	MX
+Indonesia	Sukamulia	ID
+France	Ivry-sur-Seine	FR
+Vietnam	ChÆ¡n ThÃ nh	VN
+Indonesia	Batang	ID
+China	Qiting	CN
+Malta	Pembroke	MT
+Australia	Sydney	AU
+Mongolia	Bayan Uula Sumu	MN
+Greece	ArmenokhÃ³rion	GR
+China	Guanzhou	CN
+Honduras	Monterrey	HN
+Argentina	Resistencia	AR
+Russia	Shumyachi	RU
+China	Meipu	CN
+China	Huazhaizi	CN
+Dominica	SoufriÃ¨re	DM
+Finland	Savonranta	FI
+China	Sairam	CN
+China	Jishan	CN
+Micronesia	Polowat	FM
+Poland	Pilchowice	PL
+Philippines	Kinamayan	PH
+China	Qiandian	CN
+Mauritius	Petit Raffray	MU
+Portugal	Santa Maria da Feira	PT
+Philippines	Sumisip	PH
+Mexico	El Cerrito	MX
+Ukraine	Brailiv	UA
+Colombia	Funes	CO
+Finland	RymÃ¤ttylÃ¤	FI
+China	Yuncheng	CN
+South Africa	Cradock	ZA
+China	Dadoupu	CN
+Ukraine	Berezna	UA
+China	Zhongben	CN
+France	Soissons	FR
+Indonesia	Krajan Joho	ID
+Democratic Republic of the Congo	Gbadolite	CD
+Netherlands	Emmen	NL
+Philippines	Saguing	PH
+Indonesia	Montonggamang	ID
+China	Shuangjiang	CN
+Indonesia	Ciranca	ID
+China	Dongfeng	CN
+China	Gongqiao	CN
+China	Sanxixiang	CN
+Russia	Glubokiy	RU
+Thailand	Khlong Luang	TH
+Indonesia	Tugu	ID
+Brazil	Jandira	BR
+Czech Republic	ÄŒastolovice	CZ
+Russia	Peremyshlâ€™	RU
+China	Xuedian	CN
+Brazil	Praia Grande	BR
+Philippines	General Luna	PH
+Mongolia	Ã–rgÃ¶n	MN
+China	Huanglong	CN
+Russia	Dubki	RU
+Yemen	Markaz Mudhaykirah	YE
+Japan	Niigata-shi	JP
+China	Yonghe	CN
+Brazil	Sapiranga	BR
+Indonesia	Cilimus Kulon	ID
+China	Yacheng	CN
+Peru	Lanlacuni Bajo	PE
+Portugal	PÃ³voa do Valado	PT
+Indonesia	Sukasada	ID
+Russia	Vyatskiye Polyany	RU
+China	Aral	CN
+China	Yucun	CN
+China	Qiankeng	CN
+Peru	Pueblo Nuevo	PE
+Portugal	Moita da Roda	PT
+Indonesia	Tembang	ID
+Indonesia	Turus	ID
+Brazil	Silva Jardim	BR
+Poland	Choszczno	PL
+China	Hongshan	CN
+Indonesia	Watangan	ID
+China	Shanggan	CN
+France	Aurillac	FR
+Indonesia	Kowo	ID
+Indonesia	Gersikputih Tengah	ID
+Argentina	La Puerta de San JosÃ©	AR
+Indonesia	Baturaja	ID
+Portugal	Mato Cheirinhos	PT
+Brazil	Brejo da Madre de Deus	BR
+Czech Republic	Bochov	CZ
+China	Xinhui	CN
+Russia	Novominskaya	RU
+China	Gyigang	CN
+Vietnam	Thá»‹ Tráº¥n Nho Quan	VN
+Poland	UÅ›cimÃ³w Stary	PL
+Bonaire, Saint Eustatius and Saba 	Upper Hell's Gate	BQ
+Japan	Hiji	JP
+France	Pau	FR
