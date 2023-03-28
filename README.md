@@ -1,4 +1,4 @@
-<h1 align="center"> Pithonista </h1>
+<h1 align="center"> Pythonista </h1>
 # python_projects
 ![Data Science]
 
