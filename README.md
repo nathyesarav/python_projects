@@ -1,7 +1,5 @@
+<h1 align="center"> Pithonista </h1>
 # python_projects
-
-<h1 align="center"> Proyecto 3 </h1>
-
 ![Data Science](https://www.canva.com/design/DAFZ0x7wJQQ/PeAip2PfN2dSoDXSQuE0QQ/watch?utm_content=DAFZ0x7wJQQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
    ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
