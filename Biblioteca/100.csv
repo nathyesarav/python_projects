@@ -1,0 +1,127 @@
+,pregunta
+0,Q1 Explain the difference between supervised and unsupervised machine  learning
+1,What are the parametric models
+2,What is the difference between classification and regression
+3,"What Is Overfitting, and How Can You Avoid It"
+4,What is meant by ‘Training set’ and ‘Test Set’
+5,How Do You Handle Missing or Corrupted Data in a Dataset
+6,"Explain Ensemble learning. 
+In ensemble learning, many base models like classifiers and regressors are generated and  combined together so that they give better results. It is used when we build component  classifiers that are accurate and independent. There are sequential as well as parallel ensemble  methods. "
+7,"Explain the Bias-Variance Tradeoff.  
+Predictive models have a tradeoff between bias (how well the model fits the data) and variance  (how much the model changes based on changes in the inputs).  
+Simpler models are stable (low variance) but they don't get close to the truth (high bias).  More complex models are more prone to overfitting (high variance) but they are expressive  enough to get close to the truth (low bias). The best model for a given problem usually lies  somewhere in the middle. "
+8,What is the difference between stochastic gradient descent (SGD) and  gradient descent (GD)
+9,How Can You Choose a Classifier Based on a Training Set Data Size
+10,What are 3 data preprocessing techniques to handle outliers
+11,"How much data should you allocate for your training, validation, and test  sets"
+12,What Is a False Positive and False Negative and How Are They Significant
+13,"Explain the difference between L1 and L2 regularization. 
+L2 regularization tends to spread error among all the terms, while L1 is more binary/sparse, with  many variables either being assigned a 1 or 0 in weighting. L1 corresponds to setting a  Laplacean prior to the terms, while L2 corresponds to a Gaussian prior. "
+14,What’s a Fourier transform
+15,"What is deep learning, and how does it contrast with other machine learning  algorithms"
+16,What’s the difference between a generative and discriminative model
+17,What Are the Applications of Supervised Machine Learning in Modern  Businesses
+18,What Is Semi-supervised Machine Learning
+19,20. What Are Unsupervised Machine Learning Techniques
+20,What Is ‘naive’ in the Naive Bayes Classifier
+21,"Explain Latent Dirichlet Allocation (LDA).  
+Latent Dirichlet Allocation (LDA) is a common method of topic modeling, or classifying  documents by subject matter.  
+LDA is a generative model that represents documents as a mixture of topics that each have  their own probability distribution of possible words.  
+The ""Dirichlet"" distribution is simply a distribution of distributions. In LDA, document s are distributions of topics that are distributions of words. "
+22,"Explain Principle Component Analysis (PCA).  
+PCA is a method for transforming features in a dataset by combining them into uncorrelated  linear combinations.  
+These new features, or principal components, sequentially maximize the variance represented  (i.e. the first principal component has the most variance, the second principal component has  the second most, and so on).  
+As a result, PCA is useful for dimensionality reduction because you can set an arbitrary  variance cutoff. "
+23,What’s the F1 score
+24,When should you use classification over regression
+25,How do you ensure you’re not overfitting with a model
+26,How Will You Know Which Machine Learning Algorithm to Choose for Your  Classification Problem
+27,How Do You Design an Email Spam Filter
+28,What evaluation approaches would you work to gauge the effectiveness of a  machine learning model
+29,How would you implement a recommendation system for our company’s  users
+30,"Explain bagging.  
+Bagging, or Bootstrap Aggregating, is an ensemble method in which the dataset is first divided  into multiple subsets through resampling.  
+Then, each subset is used to train a model, and the final predictions are made through voting or  averaging the component models.  
+Bagging is performed in parallel. "
+31,What is the ROC Curve and what is AUC (a.k.a. AUROC)
+32,Why is Area Under ROC Curve (AUROC) better than raw accuracy as an  out-of-sample evaluation metric
+33,What are the advantages and disadvantages of neural networks
+34,"Define Precision and Recall.  
+Precision  
+● Precision is the ratio of several events you can correctly recall to the total number of  events you recall (mix of correct and wrong recalls).  
+● Precision = (True Positive) / (True Positive + False Positive)  
+Recall  
+● A recall is the ratio of a number of events you can recall the number of total events.  ● Recall = (True Positive) / (True Positive + False Negative) "
+35,What Is Decision Tree Classification
+36,"What Is Pruning in Decision Trees, and How Is It Done"
+37,What Is a Recommendation System
+38,What Is Kernel SVM
+39,What Are Some Methods of Reducing Dimensionality
+40,What Are the Three Stages of Building a Model in Machine Learning
+41,How is KNN different from k-means clustering
+42,Mention the difference between Data Mining and Machine learning
+43,What are the different Algorithm techniques in Machine Learning
+44,You are given a data set. The data set has missing values that spread along 1  standard deviation from the median. What percentage of data would remain  unaffected
+45,"What are PCA, KPCA, and ICA used for"
+46,What are support vector machines
+47,What is batch statistical learning
+48,What is the bias-variance decomposition of classification error in the  ensemble method
+49,When is Ridge regression favorable over Lasso regression
+50,"You’ve built a random forest model with 10000 trees. You got delighted after  getting training error as 0.00. But, the validation error is 34.23. What is going on"
+51,What is a convex hull
+52,What do you understand by Type I vs Type II error
+53,"52. In k-means or kNN, we use euclidean distance to calculate the distance  between nearest neighbors. Why not manhattan distance"
+54,Do you suggest that treating a categorical variable as a continuous variable  would result in a better predictive model
+55,"OLS is to linear regression. The maximum likelihood is logistic regression.  Explain the statement.  
+OLS and Maximum likelihood are the methods used by the respective regression methods to  approximate the unknown parameter (coefficient) value. In simple words,  Ordinary least square(OLS) is a method used in linear regression which approximates the  parameters resulting in minimum distance between actual and predicted values. Maximum  Likelihood helps in choosing the values of parameters which maximizes the likelihood that the  parameters are most likely to produce observed data. "
+56,When does regularization becomes necessary in Machine Learning
+57,What is Linear Regression
+58,What is the Variance Inflation Factor
+59,"We know that one hot encoding increases the dimensionality of a dataset,  but label encoding doesn’t. How"
+60,What is a Decision Tree
+61,What is the Binarizing of data
+62,What is cross-validation
+63,When would you use random forests Vs SVM and why
+64,What are the drawbacks of a linear model
+65,Do you think 50 small decision trees are better than a large one
+66,What is a kernel
+67,State the differences between causality and correlation
+68,What is the exploding gradient problem while using the backpropagation  technique
+69,What do you mean by Associative Rule Mining (ARM)
+70,What is Marginalisation
+71,Why is the rotation of components so important in Principle Component  Analysis(PCA)
+72,What is the difference between regularization and normalisation
+73,When does the linear regression line stop rotating or finds an optimal spo t where it is fitted on data
+74,How does the SVM algorithm deal with self-learning
+75,How do you handle outliers in the data
+76,Name and define techniques used to find similarities in the recommendation system.  Pearson correlation and Cosine correlation are techniques used to find similarities in  recommendation systems. 
+77,Why would you Prune your tree
+78,Mention some of the EDA Techniques
+79,What is data augmentation
+80,What is Inductive Logic Programming in Machine Learning (ILP)
+81,What is the difference between inductive machine learning and deductive machin e learning
+82,"Difference between machine learning and deep learning  
+Machine learning is a branch of computer science and a method to implement artificial  intelligence. This technique provides the ability to automatically learn and improve from  experiences without being explicitly programmed.  
+Deep learning can be said as a subset of machine learning. It is mainly based on the artificial  neural network where data is taken as an input and the technique makes intuitive decisions  using the artificial neural network. "
+83,What Are The Steps Involved In Machine Learning Project
+84,Differences between Artificial Intelligence and Machine Learning
+85,"Steps Needed to Choose the Appropriate Machine Learning Algorithm for  your Classification problem.  
+Firstly, you need to have a clear picture of your data, your constraints, and your problems  before heading towards different machine learning algorithms. Secondly, you have to  understand which type and kind of data you have because it plays a primary role in deciding  which algorithm you have to use.  
+Following this step is the data categorization step, which is a two-step process – categorizati on by input and categorization by output. The next step is to understand your constraints; that is,  what is your data storage capacity"
+86,"Explain Backpropagation in Machine Learning.  
+A very important question for your machine learning interview. Backpropagation is the  algorithm for computing artificial neural networks (ANN). It is used by the gradient descent  optimization that exploits the chain rule. By calculating the gradient of the loss function, the  weight of the neurons is adjusted to a certain value. To train a multi-layered neural network is  the prime motivation of backpropagation so that it can learn the appropriate internal  demonstrations. This will help them learn to map any input to its respective output arbitrarily. "
+87,What is the Convex Function
+88,What’s the Relationship between True Positive Rate and Recall
+89,"List some Tools for Parallelizing Machine Learning Algorithms.  Although this question may seem very easy, make sure not to skip this one because it is also  very closely related to artificial intelligence and thereby, AI interview questions. Almos t all machine learning algorithms are easy to serialize. Some of the basic tools for parallelizing are  Matlab, Weka, R, Octave, or the Python-based sci-kit learn."
+90,What do you mean by Genetic Programming
+91,What do you know about Bayesian Networks
+92,Which are the two components of the Bayesian logic program
+93,How is machine learning used in day-to-day life
+94,Define Sampling. Why do we need it
+95,What does the term decision boundary mean
+96,Define entropy
+97,Indicate the top intents of machine learning
+98,Highlight the differences between the Generative model and the  Discriminative model
+99,Identify the most important aptitudes of a machine learning engineer
+100,What is feature engineering
+101,How can learning curves help create a better model
